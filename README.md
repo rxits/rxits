@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F0FF?style=for-the-badge&labelColor=0F0F23" />
 <img src="https://img.shields.io/badge/LOC-INDIA-FF00FF?style=for-the-badge&labelColor=0F0F23" />
 <img src="https://img.shields.io/badge/MODE-AUTONOMOUS-39FF14?style=for-the-badge&labelColor=0F0F23" />
-<img src="https://img.shields.io/badge/INBOUND-CLOSED_TILL_LAUNCH-FF0055?style=for-the-badge&labelColor=0F0F23" />
+<img src="https://img.shields.io/badge/INBOUND-BY_APPOINTMENT-FF0055?style=for-the-badge&labelColor=0F0F23" />
 <img src="https://komarev.com/ghpvc/?username=rxits&label=SIGNAL_INTERCEPTS&color=00f0ff&style=for-the-badge&labelColor=0F0F23" alt="visitors" />
 
 </div>
@@ -406,15 +406,29 @@ class Operator:
 ```text
    ╭─────────────────────────────────────────────────────────────────────╮
    │                                                                     │
-   │   inbound channel : closed_until_launch                             │
+   │   inbound channel : gated · qualified slots only                    │
    │   exception        : you're building something equally crazy        │
-   │   reach me         : when there's something to point at             │
+   │   booking          : 15-min signal · 30-min deep dive  ↓            │
    │                                                                     │
-   │   meanwhile, watch this profile.                                    │
+   │   no agenda → no slot. ship something first, then book.             │
    │   the next push will not be silent.                                 │
    │                                                                     │
    ╰─────────────────────────────────────────────────────────────────────╯
 ```
+
+<br/>
+
+<a href="https://cal.com/rakshit-sharma-k1iaos/15min">
+  <img src="https://img.shields.io/badge/BOOK-15_MIN_SIGNAL-00F0FF?style=for-the-badge&logo=caldotcom&logoColor=white&labelColor=0F0F23" alt="book 15-min on cal.com" />
+</a>
+&nbsp;
+<a href="https://cal.com/rakshit-sharma-k1iaos/30min">
+  <img src="https://img.shields.io/badge/BOOK-30_MIN_DEEP_DIVE-FF00FF?style=for-the-badge&logo=caldotcom&logoColor=white&labelColor=0F0F23" alt="book 30-min on cal.com" />
+</a>
+
+<br/><br/>
+
+<sub><i>// agents triage. humans get through when the work is interesting.</i></sub>
 
 </div>
 
