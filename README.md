@@ -100,12 +100,12 @@ $ _
 ## `>_ now_building.log`
 
 ```diff
-+ [PUBLIC ]   OpenClaw    →  multi-agent OS · the company-killer chassis
 + [PUBLIC ]   Aumiqx      →  the AI-native services co. it all runs on
-+ [PUBLIC ]   clawlab     →  the vault of unhinged builds (ideas → reality)
+- [STEALTH]   OpenClaw    →  multi-agent OS · the company-killer chassis
 - [STEALTH]   Salesclawd  →  autonomous outbound sales agent
 - [STEALTH]   Traviqx     →  premium experiential travel · agent-curated
 - [STEALTH]   Leadgen     →  Aumiqx's own outbound engine · n8n + Claude
+- [STEALTH]   clawlab     →  the vault of unhinged builds · DECRYPT_ON_LAUNCH
 ! [LIVE   ]   Operator    →  rxit  ·  shipping daily  ·  no roadmap leaks
 ```
 
@@ -187,7 +187,7 @@ A pipeline that fills the calendar without a sales team. The first agent we buil
 
 `Problem-solving meets crazy. The lab where it all starts.`
 
-A living roadmap of every weird, useful, dangerous idea about to become a real product. Read it. Steal it. Build with us.
+A living roadmap of every weird, useful, dangerous idea about to become a real product. Decrypted on launch.
 
 <br/>
 
@@ -197,8 +197,8 @@ A living roadmap of every weird, useful, dangerous idea about to become a real p
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN-39FF14?style=flat-square&labelColor=0F0F23" />
-<img src="https://img.shields.io/badge/ACCESS-PUBLIC-39FF14?style=flat-square&labelColor=0F0F23" />
+<img src="https://img.shields.io/badge/STATUS-STEALTH-FF0055?style=flat-square&labelColor=0F0F23" />
+<img src="https://img.shields.io/badge/ACCESS-CLASSIFIED-FF0055?style=flat-square&labelColor=0F0F23" />
 
 </td>
 </tr>
