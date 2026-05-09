@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F0FF?style=for-the-badge&labelColor=0F0F23" />
 <img src="https://img.shields.io/badge/LOC-INDIA-FF00FF?style=for-the-badge&labelColor=0F0F23" />
 <img src="https://img.shields.io/badge/MODE-AUTONOMOUS-39FF14?style=for-the-badge&labelColor=0F0F23" />
-<img src="https://img.shields.io/badge/INBOUND-BY_APPOINTMENT-FF0055?style=for-the-badge&labelColor=0F0F23" />
+<a href="https://cal.com/rakshit-sharma-k1iaos"><img src="https://img.shields.io/badge/📅_BOOK_A_CALL-CAL.COM-FF0055?style=for-the-badge&labelColor=0F0F23" alt="book a call on cal.com" /></a>
 <img src="https://komarev.com/ghpvc/?username=rxits&label=SIGNAL_INTERCEPTS&color=00f0ff&style=for-the-badge&labelColor=0F0F23" alt="visitors" />
 
 </div>
@@ -385,7 +385,10 @@ class Operator:
         return Agent(role)                    # never a human first
 
     def meet(self, anyone):
-        raise PermissionError("calendar is closed by default")
+        # gated · ship first, then book
+        if anyone.is_building_something_real():
+            return "https://cal.com/rakshit-sharma-k1iaos"   # 15min · 30min
+        raise PermissionError("no agenda → no slot")
 
     def scale(self, company):
         while company.headcount > 1:
