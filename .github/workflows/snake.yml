@@ -22,8 +22,7 @@ jobs:
           github_user_name: rxits
           outputs: |
             dist/snake.svg?palette=github-dark
-            dist/snake-dark.svg?palette=github-dark&color_snake=#00F0FF&color_dots=#0F0F23,#1A0033,#FF00FF,#00F0FF,#39FF14
-            dist/snake.gif?color_snake=#00F0FF&color_dots=#0F0F23,#1A0033,#FF00FF,#00F0FF,#39FF14
+            dist/snake-dark.svg?palette=github-dark&color_snake=%2300F0FF&color_dots=%230F0F23,%231A0033,%23FF00FF,%2300F0FF,%2339FF14
 
       - name: push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
