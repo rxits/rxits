@@ -83,6 +83,7 @@ $ _
 ## `>_ now_building.log`
 
 ```diff
++ [OPEN   ]   job-radar   →  remote-job radar · eligibility + gemini · MIT
 + [PUBLIC ]   Aumiqx      →  the AI-native services co. it all runs on
 - [STEALTH]   OpenClaw    →  multi-agent OS · the company-killer chassis
 - [STEALTH]   Salesclawd  →  autonomous outbound sales agent
@@ -186,6 +187,65 @@ A living roadmap of every weird, useful, dangerous idea about to become a real p
 </td>
 </tr>
 </table>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       FIRST PUBLIC RELEASE                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00F0FF&height=4&section=header" />
+
+# 🟢  FIRST DECRYPTED FILE  /  [job-radar](https://github.com/rxits/job-radar)
+
+<sub><i>// the vault opens. one repo at a time.</i></sub>
+
+<br/>
+
+**Remote job boards are full of jobs you can't legally take.**
+`job-radar` scrapes 7 boards, rules out every role your location disqualifies you from,
+scores the rest with Gemini against *your* resume, and one click later you're holding a
+tailored resume + cover letter + outreach email. Local-first. Your data never leaves your box.
+
+<br/>
+
+![stack](https://img.shields.io/badge/-Next.js_15-000?style=flat-square&logo=nextdotjs)
+![stack](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![stack](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![stack](https://img.shields.io/badge/-108_tests-39FF14?style=flat-square)
+
+<img src="https://img.shields.io/badge/STATUS-LIVE-39FF14?style=flat-square&labelColor=0F0F23" />
+<img src="https://img.shields.io/badge/ACCESS-MIT_·_OPEN-39FF14?style=flat-square&labelColor=0F0F23" />
+<a href="https://github.com/rxits/job-radar"><img src="https://img.shields.io/badge/⭐_STAR_IT-rxits%2Fjob--radar-00F0FF?style=flat-square&labelColor=0F0F23" /></a>
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          FIELD RECORD                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF00FF&height=4&section=header" />
+
+# 🌍  FIELD RECORD
+
+<sub><i>// shipped to production for real businesses. live right now — click them.</i></sub>
+
+<br/>
+
+| operation | what shipped | proof |
+|---|---|---|
+| **NY Elizabeth** | real-time auction platform — live clerk-driven bidding, Socket.IO + Redis, Stripe Connect multi-tenant, Flutter app | [bid.nyelizabeth.com](https://bid.nyelizabeth.com) |
+| **SalesClawd** | autonomous marketing employee — 3 AI agents, 18 platform adapters, trust-gated autonomy, 10 parallel Claude processes per run | [salesclawd.aumiqx.com](https://salesclawd.aumiqx.com) |
+| **Art Index** | art marketplace + price database — live auctions, Artsy/Algolia data layer | [artindex.ai](https://artindex.ai) |
+| **Aumiqx** | the company site — 342 programmatic-SEO pages, daily data pipelines, static-export CI | [aumiqx.com](https://aumiqx.com) |
+| **Yoginii** | wellness platform — multi-vendor Shopify dashboard (Metaobjects vendor registry, webhook commission engine) | [yoginii.co](https://yoginii.co) |
+| **Beast** | Cannes Lions-winning London studio — full site, built solo on their stack | [beast.agency](https://beast.agency) |
+| **air-up** | €200M+ German DTC brand — site build, deployed direct to production | [air-up.com](https://air-up.com) |
+| **Rockport India** | men's footwear e-commerce, Shopify | [rockport.in](https://rockport.in) |
+
+</div>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          TECH ARSENAL                                ║ -->
