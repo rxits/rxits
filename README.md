@@ -2,7 +2,7 @@
    ░█▀▄░█░█░▀█▀░▀█▀░█▀▀
    ░█▀▄░▄▀▄░░█░░░█░░▀▀█
    ░▀░▀░▀░▀░▀▀▀░░▀░░▀▀▀
-   COFOUNDER @ AUMIQX  ·  OPENCLAW ARCHITECT  ·  OPERATOR-OF-ONE
+   @ AUMIQX  ·  OPENCLAW ARCHITECT  ·  OPERATOR-OF-ONE
 ═══════════════════════════════════════════════════════════════════════════-->
 
 <a name="top"></a>
