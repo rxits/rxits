@@ -13,10 +13,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,30:1A0033,55:FF00FF,100:00F0FF&height=300&section=header&text=rxits&fontSize=130&fontColor=FFFFFF&fontAlignY=36&desc=COFOUNDER%20%40%20AUMIQX%20%C2%B7%20OPENCLAW%20ARCHITECT%20%C2%B7%20OPERATOR-OF-ONE&descSize=18&descAlignY=60&animation=fadeIn&fontFamily=monospace" alt="rxits hero" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,30:1A0033,55:FF00FF,100:00F0FF&height=300&section=header&text=rxits&fontSize=130&fontColor=FFFFFF&fontAlignY=36&desc=SDE%20%40%20AUMIQX%20%C2%B7%20OPENCLAW%20ARCHITECT%20%C2%B7%20OPERATOR-OF-ONE&descSize=18&descAlignY=60&animation=fadeIn&fontFamily=monospace" alt="rxits hero" />
 
 <a href="#top">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=600&color=00F0FF&center=true&vCenter=true&width=860&height=46&lines=%2F%2F+I'm+rxit.+Some+call+me+Rakshit+Sharma.;%2F%2F+I+replace+50-person+companies+with+agents.;%2F%2F+Cofounder+%40+Aumiqx+Technologies.;%2F%2F+Currently+building+OpenClaw+%2B+Salesclawd.;%2F%2F+Ship+like+an+army+of+one." alt="rotating taglines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=600&color=00F0FF&center=true&vCenter=true&width=860&height=46&lines=%2F%2F+I'm+rxit.+Some+call+me+Rakshit.;%2F%2F+I+replace+50-person+companies+with+agents.;%2F%2F+SDE+%40+Aumiqx+Technologies.;%2F%2F+Currently+building+OpenClaw+%2B+Salesclawd.;%2F%2F+Ship+like+an+army+of+one." alt="rotating taglines" />
 </a>
 
 <br/>
