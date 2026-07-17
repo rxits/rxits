@@ -159,6 +159,16 @@ The honest short version: whatever gets it live fastest without falling over.
 
 <br/>
 
+## live telemetry
+
+<sub>not a screenshot — a GitHub Action refreshes these from my real activity every few hours.</sub>
+
+<div align="center">
+<img src="./assets/telemetry.svg" width="100%" alt="live telemetry — auto-synced from GitHub" />
+</div>
+
+<br/>
+
 ## let's talk
 
 If you're building something interesting — or you just want to see how far one person and a room full of agents can get — I'd genuinely love to hear about it.
