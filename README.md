@@ -260,12 +260,12 @@ The honest short version: whatever gets it live fastest without falling over.
 
 <br/>
 
-## live telemetry
+## 📡 incoming signal
 
-<sub>not a screenshot — a GitHub Action refreshes these from my real activity every few hours.</sub>
+<sub>the top thing the dev world is talking about right now — a GitHub Action refreshes this every few hours, so it's different each time you look.</sub>
 
 <div align="center">
-<img src="./assets/telemetry.svg" width="100%" alt="live telemetry — auto-synced from GitHub" />
+<img src="./assets/news.svg" width="100%" alt="incoming signal — a fresh tech/AI headline" />
 </div>
 
 <br/>
