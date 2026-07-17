@@ -260,6 +260,16 @@ The honest short version: whatever gets it live fastest without falling over.
 
 <br/>
 
+## activity
+
+<sub>a little ambient signal — because on rxit.os, something's always building.</sub>
+
+<div align="center">
+<img src="./assets/activity.svg" width="100%" alt="activity heatmap — always building" />
+</div>
+
+<br/>
+
 ## 📡 incoming signal
 
 <sub>the top thing the dev world is talking about right now — a GitHub Action refreshes this every few hours, so it's different each time you look.</sub>
