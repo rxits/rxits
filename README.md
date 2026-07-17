@@ -1,510 +1,67 @@
-<!--═══════════════════════════════════════════════════════════════════════════
-   ░█▀▄░█░█░▀█▀░▀█▀░█▀▀
-   ░█▀▄░▄▀▄░░█░░░█░░▀▀█
-   ░▀░▀░▀░▀░▀▀▀░░▀░░▀▀▀
-   @ AUMIQX  ·  OPENCLAW ARCHITECT  ·  OPERATOR-OF-ONE
-═══════════════════════════════════════════════════════════════════════════-->
-
-<a name="top"></a>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              HERO BANNER                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+<!-- rxit.os — profile README. hero is a hand-built animated SVG (assets/rxit-os.svg). -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,30:1A0033,55:FF00FF,100:00F0FF&height=300&section=header&text=rxits&fontSize=130&fontColor=FFFFFF&fontAlignY=36&desc=SDE%20%40%20AUMIQX%20%C2%B7%20OPENCLAW%20ARCHITECT%20%C2%B7%20OPERATOR-OF-ONE&descSize=18&descAlignY=60&animation=fadeIn&fontFamily=monospace" alt="rxits hero" />
+<img src="./assets/rxit-os.svg" width="100%" alt="rxit.os — one human, a fleet of agents" />
 
-<a href="#top">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=600&color=00F0FF&center=true&vCenter=true&width=860&height=46&lines=%2F%2F+I'm+rxit.+Some+call+me+Rakshit.;%2F%2F+I+replace+50-person+companies+with+agents.;%2F%2F+SDE+%40+Aumiqx+Technologies.;%2F%2F+Currently+building+OpenClaw+%2B+Salesclawd.;%2F%2F+Ship+like+an+army+of+one." alt="rotating taglines" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F0FF?style=for-the-badge&labelColor=0F0F23" />
-<img src="https://img.shields.io/badge/LOC-INDIA-FF00FF?style=for-the-badge&labelColor=0F0F23" />
-<img src="https://img.shields.io/badge/MODE-AUTONOMOUS-39FF14?style=for-the-badge&labelColor=0F0F23" />
-<a href="https://cal.com/rakshit-sharma-k1iaos"><img src="https://img.shields.io/badge/📅_BOOK_A_CALL-CAL.COM-FF0055?style=for-the-badge&labelColor=0F0F23" alt="book a call on cal.com" /></a>
-<img src="https://komarev.com/ghpvc/?username=rxits&label=SIGNAL_INTERCEPTS&color=00f0ff&style=for-the-badge&labelColor=0F0F23" alt="visitors" />
+<p>
+  <a href="https://aumiqx.com">🌐&nbsp;aumiqx.com</a> &nbsp;·&nbsp;
+  <a href="https://cal.com/rakshit-sharma-k1iaos">📅&nbsp;book a call</a> &nbsp;·&nbsp;
+  <a href="mailto:rxits@proton.me">✉️&nbsp;say hi</a>
+</p>
 
 </div>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         ASCII OPERATIONS BLOCK                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+## hey, i'm Rakshit — most people call me rxit
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              MANIFESTO                               ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+I build small teams of AI agents that do the work a whole company used to need. One human (me), a fleet of agents, and a habit of shipping things that actually go live. I cofounded [**Aumiqx**](https://aumiqx.com), where that idea turned into real products people use every day.
+
+I'm drawn to problems that sound a little unreasonable for one person to take on — a real-time auction platform, an autonomous marketing employee, a site for a €200M brand — and then quietly getting them into production. If it's live and someone's using it, that's the part I care about.
+
+<br/>
+
+## what i've shipped
+
+Everything below is **live right now** — go click on it.
+
+**things i built and run**
+
+| project | what it is | |
+|---|---|:--|
+| **NY Elizabeth** | A real-time auction platform for an international luxury house — live, clerk-driven bidding on Socket.IO + Redis, Stripe Connect, and a Flutter app. | 🟢 [bid.nyelizabeth.com](https://bid.nyelizabeth.com) |
+| **SalesClawd** | An autonomous marketing employee for small businesses — three AI agents working across 18 platforms with trust-gated autonomy. | 🟢 [salesclawd.aumiqx.com](https://salesclawd.aumiqx.com) |
+| **Art Index** | An art marketplace and price database with live auctions, built on an Artsy / Algolia data layer. | 🟢 [artindex.ai](https://artindex.ai) |
+| **Aumiqx** | The company itself — 342 programmatic-SEO pages, daily data pipelines, and static-export CI. | 🟢 [aumiqx.com](https://aumiqx.com) |
+
+**brands i've built for**
+
+| client | what i did | |
+|---|---|:--|
+| **air-up** 🇩🇪 | Built for a €200M+ German DTC brand and shipped straight to production. | 🟢 [air-up.com](https://air-up.com) |
+| **Beast** 🦁 | The full site for a Cannes Lions–winning London studio, built solo on their stack. | 🟢 [beast.agency](https://beast.agency) |
+| **Yoginii** 🧘 | A wellness platform with a multi-vendor Shopify dashboard and a webhook commission engine. | 🟢 [yoginii.co](https://yoginii.co) |
+| **Rockport India** 👞 | Men's footwear e-commerce on Shopify. | 🟢 [rockport.in](https://rockport.in) |
+
+<br/>
+
+## how i build
+
+I mostly live in **TypeScript** and **Python**, with **Next.js** and **Flutter** up front and **Postgres**, **Redis**, and **Supabase** behind them. The agents run on **Claude** and **Gemini**, wired together with a good amount of custom orchestration. For commerce and real-time work it's usually **Shopify**, **Stripe Connect**, **Socket.IO**, and **Algolia**, and everything ships through **Docker**, **Vercel**, and **Cloudflare**.
+
+The honest short version: whatever gets it live fastest without falling over.
+
+<br/>
+
+## let's talk
+
+If you're building something interesting — or you just want to see how far one person and a room full of agents can get — I'd genuinely love to hear about it.
+
+📅 **[Book a 15-min chat](https://cal.com/rakshit-sharma-k1iaos/15min)** &nbsp;·&nbsp; **[or a 30-min deep dive](https://cal.com/rakshit-sharma-k1iaos/30min)**
+🌐 [aumiqx.com](https://aumiqx.com) &nbsp;·&nbsp; ✉️ [rxits@proton.me](mailto:rxits@proton.me)
 
 <div align="center">
-
-```text
-   ╭─────────────────────────────────────────────────────────────────────╮
-   │                                                                     │
-   │    "Most companies need 50 people to do what 50 agents can do       │
-   │     better. I'm building the second one — and I'm not asking        │
-   │     for permission."                                                │
-   │                                                                     │
-   │                                              — rxit · manifesto.v1  │
-   │                                                                     │
-   ╰─────────────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              WHOAMI                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## `~/whoami`
-
-```bash
-$ rxits --identify --verbose
-> name        :  Rakshit Sharma
-> alias       :  rxit
-> role        :  Cofounder, Aumiqx Technologies
-> mission     :  replace companies with agents
-> base        :  India  ·  ALWAYS_ON
-> humans      :  1
-> agents      :  growing
-> meetings    :  0
-> caffeine    :  nominal
-> status      :  shipping in stealth
-$ _
-```
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          NOW BUILDING                                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## `>_ now_building.log`
-
-```diff
-+ [OPEN   ]   job-radar   →  remote-job radar · eligibility + gemini · MIT
-+ [PUBLIC ]   Aumiqx      →  the AI-native services co. it all runs on
-- [STEALTH]   OpenClaw    →  multi-agent OS · the company-killer chassis
-- [STEALTH]   Salesclawd  →  autonomous outbound sales agent
-- [STEALTH]   Traviqx     →  premium experiential travel · agent-curated
-- [STEALTH]   Leadgen     →  Aumiqx's own outbound engine · n8n + Claude
-- [STEALTH]   clawlab     →  the vault of unhinged builds · DECRYPT_ON_LAUNCH
-! [LIVE   ]   Operator    →  rxit  ·  shipping daily  ·  no roadmap leaks
-```
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              ARSENAL                                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00F0FF&height=4&section=header" />
-
-# 🚀  BUILT  ·  LIVE IN PRODUCTION
-
-<sub><i>// my own products — running in production right now. click any of them.</i></sub>
-
-</div>
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-<a href="https://bid.nyelizabeth.com">
-  <img src="https://img.shields.io/badge/NY_ELIZABETH-FF00FF?style=for-the-badge&labelColor=0F0F23" alt="ny elizabeth" />
-</a>
-
-<br/><br/>
-
-**Real-time auction platform.**
-
-Live clerk-driven bidding for an international luxury auction house.
-
 <br/>
-
-`Socket.IO · Redis · Stripe Connect multi-tenant · Flutter app`
-
-<br/>
-
-<a href="https://bid.nyelizabeth.com"><img src="https://img.shields.io/badge/●_LIVE-39FF14?style=flat-square&labelColor=0F0F23" /></a>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<a href="https://salesclawd.aumiqx.com">
-  <img src="https://img.shields.io/badge/SALESCLAWD-39FF14?style=for-the-badge&labelColor=0F0F23" alt="salesclawd" />
-</a>
-
-<br/><br/>
-
-**Autonomous marketing employee.**
-
-3 AI agents that run a small business's marketing end-to-end.
-
-<br/>
-
-`18 platform adapters · trust-gated autonomy · 10 parallel Claude processes/run`
-
-<br/>
-
-<a href="https://salesclawd.aumiqx.com"><img src="https://img.shields.io/badge/●_LIVE-39FF14?style=flat-square&labelColor=0F0F23" /></a>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<a href="https://artindex.ai">
-  <img src="https://img.shields.io/badge/ART_INDEX-00F0FF?style=for-the-badge&labelColor=0F0F23" alt="art index" />
-</a>
-
-<br/><br/>
-
-**Art marketplace + price database.**
-
-Live auctions with a real market-data layer for fine art.
-
-<br/>
-
-`Artsy / Algolia data layer · live auctions`
-
-<br/>
-
-<a href="https://artindex.ai"><img src="https://img.shields.io/badge/●_LIVE-39FF14?style=flat-square&labelColor=0F0F23" /></a>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<a href="https://aumiqx.com">
-  <img src="https://img.shields.io/badge/AUMIQX-FF0055?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0F23" alt="aumiqx" />
-</a>
-
-<br/><br/>
-
-**The company site.**
-
-The AI-native services co the whole machine runs on.
-
-<br/>
-
-`342 programmatic-SEO pages · daily data pipelines · static-export CI`
-
-<br/>
-
-<a href="https://aumiqx.com"><img src="https://img.shields.io/badge/●_LIVE-39FF14?style=flat-square&labelColor=0F0F23" /></a>
-
-</td>
-</tr>
-</table>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       FIRST PUBLIC RELEASE                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00F0FF&height=4&section=header" />
-
-# 🟢  FIRST DECRYPTED FILE  /  [job-radar](https://github.com/rxits/job-radar)
-
-<sub><i>// the vault opens. one repo at a time.</i></sub>
-
-<br/>
-
-**Remote job boards are full of jobs you can't legally take.**
-`job-radar` scrapes 7 boards, rules out every role your location disqualifies you from,
-scores the rest with Gemini against *your* resume, and one click later you're holding a
-tailored resume + cover letter + outreach email. Local-first. Your data never leaves your box.
-
-<br/>
-
-![stack](https://img.shields.io/badge/-Next.js_15-000?style=flat-square&logo=nextdotjs)
-![stack](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![stack](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![stack](https://img.shields.io/badge/-108_tests-39FF14?style=flat-square)
-
-<img src="https://img.shields.io/badge/STATUS-LIVE-39FF14?style=flat-square&labelColor=0F0F23" />
-<img src="https://img.shields.io/badge/ACCESS-MIT_·_OPEN-39FF14?style=flat-square&labelColor=0F0F23" />
-<a href="https://github.com/rxits/job-radar"><img src="https://img.shields.io/badge/⭐_STAR_IT-rxits%2Fjob--radar-00F0FF?style=flat-square&labelColor=0F0F23" /></a>
-
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          FIELD RECORD                                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF00FF&height=4&section=header" />
-
-# 🌍  FIELD RECORD
-
-<sub><i>// shipped to production for real businesses. live right now — click them.</i></sub>
-
-<br/>
-
-| brand | what shipped | proof |
-|---|---|---|
-| **air-up** 🇩🇪 | €200M+ German DTC brand — site build, deployed **direct to production** | [air-up.com](https://air-up.com) |
-| **Beast** 🦁 | **Cannes Lions-winning** London studio — full site, built solo on their stack | [beast.agency](https://beast.agency) |
-| **Yoginii** 🧘 | wellness platform — multi-vendor Shopify dashboard, Metaobjects vendor registry + webhook commission engine | [yoginii.co](https://yoginii.co) |
-| **Rockport India** 👞 | men's footwear e-commerce on Shopify | [rockport.in](https://rockport.in) |
-
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          TECH ARSENAL                                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF00FF&height=4&section=header" />
-
-# 🛠  TECH ARSENAL
-
-<sub><i>// the toolchain that lets one human punch above a 50-person team</i></sub>
-
-<br/>
-
-**`languages`**
-
-[![lang](https://skillicons.dev/icons?i=python,typescript,go,dart,bash,sql)](https://skillicons.dev)
-
-**`agents · ai`**
-
-<img src="https://img.shields.io/badge/-Claude_API-D77655?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/-Gemini_Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/-OpenClaw-FF00FF?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
-**`stack`**
-
-[![stack](https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,fastapi,docker,postgres,redis,gcp,vercel,supabase,tailwind)](https://skillicons.dev)
-
-**`commerce · realtime`**
-
-<img src="https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/-Stripe_Connect-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/-Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white" />
-
-**`ops · ground`**
-
-[![ops](https://skillicons.dev/icons?i=linux,git,github,vscode,bash,nginx,cloudflare)](https://skillicons.dev)
-
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          LIVE TELEMETRY                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:39FF14&height=4&section=header" />
-
-# 📡  LIVE TELEMETRY
-
-<a href="https://github.com/rxits">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rxits&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0F0F23&title_color=00F0FF&text_color=FFFFFF&icon_color=FF00FF&ring_color=39FF14" alt="rxits stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxits&layout=compact&hide_border=true&bg_color=0F0F23&title_color=00F0FF&text_color=FFFFFF&langs_count=8" alt="top langs" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/rxits">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rxits&theme=tokyonight&hide_border=true&background=0F0F23&stroke=FF00FF&ring=00F0FF&fire=39FF14&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=AAAAAA" alt="streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=rxits&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
-</a>
-
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       CONTRIBUTION SNAKE                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:00F0FF&height=4&section=header" />
-
-# 🐍  the snake that eats my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rxits/rxits/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rxits/rxits/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/rxits/rxits/output/snake.svg" />
-</picture>
-
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          THE VAULT                                   ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF0055&height=4&section=header" />
-
-# 🔐  THE VAULT
-
-<sub><i>// classified · decrypt-on-launch</i></sub>
-
-</div>
-
-<details>
-<summary><b><code>[ FILE 001 // SALESCLAWD.dat ]</code></b></summary>
-
-```
-> ACCESS LEVEL : OWNER ONLY
-> CLASSIFICATION : STEALTH
-> SUMMARY : an autonomous outbound sales operator. it researches,
-           writes, sends, follows up, books, qualifies. you wake up,
-           the calendar is full. you sleep, the pipeline doesn't.
-> STATUS : in active build
-> RELEASE : when it earns its own salary three months in a row
-```
-
-</details>
-
-<details>
-<summary><b><code>[ FILE 002 // OPENCLAW.dat ]</code></b></summary>
-
-```
-> ACCESS LEVEL : OPEN (soon)
-> CLASSIFICATION : ARCHITECTURE
-> SUMMARY : the multi-agent operating system that runs aumiqx.
-           a chassis where every "department" is a swarm of
-           specialised agents on top of gemini pro + claude.
-> STATUS : foundations laid · agents being installed
-> RELEASE : when it can run a full workday without a human babysitter
-```
-
-</details>
-
-<details>
-<summary><b><code>[ FILE 003 // TWO-GAMES.dat ]</code></b></summary>
-
-```
-> ACCESS LEVEL : OPERATOR NOTES
-> CLASSIFICATION : STRATEGY
-> SUMMARY : two content properties, fully decoupled. one paid funnel
-           into aumiqx. one zero-budget mass-viral play. neither
-           knows the other exists. both feed the machine.
-> STATUS : both live · both compounding
-> RELEASE : public dashboards once the numbers are obscene
-```
-
-</details>
-
-<details>
-<summary><b><code>[ FILE 004 // OPERATOR.dat ]</code></b></summary>
-
-```
-> ACCESS LEVEL : ALL
-> CLASSIFICATION : YOU ARE HERE
-> SUMMARY : me. one human. one terminal. one mission.
-           every line of code, every email, every decision —
-           shipped, signed, owned. no committee. no PMO.
-           no all-hands. just output.
-> STATUS : online
-> RELEASE : already shipping
-```
-
-</details>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          OPERATING PRINCIPLES                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0055,100:FF00FF&height=4&section=header" />
-
-# ⚡  OPERATING PRINCIPLES
-
-</div>
-
-```python
-class Operator:
-    """one human. army-of-one mode. always on."""
-
-    def ship(self, idea):
-        return idea.build().ship().learn().repeat()
-
-    def hire(self, role):
-        return Agent(role)                    # never a human first
-
-    def meet(self, anyone):
-        # gated · ship first, then book
-        if anyone.is_building_something_real():
-            return "https://cal.com/rakshit-sharma-k1iaos"   # 15min · 30min
-        raise PermissionError("no agenda → no slot")
-
-    def scale(self, company):
-        while company.headcount > 1:
-            company.replace_role_with_agent()
-        return company                        # this is the goal
-```
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              CONTACT                                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00F0FF&height=4&section=header" />
-
-# 📡  TRANSMISSION
-
-```text
-   ╭─────────────────────────────────────────────────────────────────────╮
-   │                                                                     │
-   │   inbound channel : gated · qualified slots only                    │
-   │   exception        : you're building something equally crazy        │
-   │   booking          : 15-min signal · 30-min deep dive  ↓            │
-   │                                                                     │
-   │   no agenda → no slot. ship something first, then book.             │
-   │   the next push will not be silent.                                 │
-   │                                                                     │
-   ╰─────────────────────────────────────────────────────────────────────╯
-```
-
-<br/>
-
-<a href="https://cal.com/rakshit-sharma-k1iaos/15min">
-  <img src="https://img.shields.io/badge/BOOK-15_MIN_SIGNAL-00F0FF?style=for-the-badge&logo=caldotcom&logoColor=white&labelColor=0F0F23" alt="book 15-min on cal.com" />
-</a>
-&nbsp;
-<a href="https://cal.com/rakshit-sharma-k1iaos/30min">
-  <img src="https://img.shields.io/badge/BOOK-30_MIN_DEEP_DIVE-FF00FF?style=for-the-badge&logo=caldotcom&logoColor=white&labelColor=0F0F23" alt="book 30-min on cal.com" />
-</a>
-
-<br/><br/>
-
-<sub><i>// agents triage. humans get through when the work is interesting.</i></sub>
-
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              FOOTER                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,30:FF00FF,60:1A0033,100:0F0F23&height=160&section=footer&text=keep%20shipping&fontSize=42&fontColor=FFFFFF&fontAlignY=70&animation=twinkling&fontFamily=monospace" alt="footer" />
-
-<sub>
-
-`> built by rxit · 1 human · n agents · 0 meetings · always shipping`
-
-</sub>
-
-[⬆ back to top](#top)
-
+<sub>built and shipped by rxit — one human, a fleet of agents.</sub>
 </div>
