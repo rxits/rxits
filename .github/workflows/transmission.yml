@@ -2,7 +2,7 @@ name: transmission
 
 on:
   schedule:
-    - cron: '31 * * * *'   # refresh news/facts every hour
+    - cron: '*/5 * * * *'   # refresh news/facts every 5 minutes (GitHub's minimum)
   workflow_dispatch:
 
 permissions:
