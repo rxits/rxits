@@ -270,12 +270,12 @@ The honest short version: whatever gets it live fastest without falling over.
 
 <br/>
 
-## 📡 incoming signal
+## 📡 today's transmission
 
-<sub>the top thing the dev world is talking about right now — a GitHub Action refreshes this every few hours, so it's different each time you look.</sub>
+<sub>a rotating hot-take straight from the rxit.os brain — it cycles on its own, so there's always a fresh one on screen.</sub>
 
 <div align="center">
-<img src="./assets/news.svg" width="100%" alt="incoming signal — a fresh tech/AI headline" />
+<img src="./assets/hot-take.svg" width="100%" alt="rxit.os hot-take — auto-rotating" />
 </div>
 
 <br/>
