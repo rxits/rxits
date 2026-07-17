@@ -215,9 +215,22 @@ okay.
 
 Everything below is **live right now** — go click on it.
 
-<div align="center">
-<img src="./assets/deployments.svg" width="100%" alt="deployments — all systems live" />
-</div>
+<table>
+<tr>
+<td width="25%"><a href="https://bid.nyelizabeth.com"><img src="./assets/dep/nyelizabeth.svg" width="100%" alt="NY Elizabeth — open live" /></a></td>
+<td width="25%"><a href="https://salesclawd.aumiqx.com"><img src="./assets/dep/salesclawd.svg" width="100%" alt="SalesClawd — open live" /></a></td>
+<td width="25%"><a href="https://artindex.ai"><img src="./assets/dep/artindex.svg" width="100%" alt="Art Index — open live" /></a></td>
+<td width="25%"><a href="https://aumiqx.com"><img src="./assets/dep/aumiqx.svg" width="100%" alt="Aumiqx — open live" /></a></td>
+</tr>
+<tr>
+<td><a href="https://air-up.com"><img src="./assets/dep/airup.svg" width="100%" alt="air-up — open live" /></a></td>
+<td><a href="https://beast.agency"><img src="./assets/dep/beast.svg" width="100%" alt="Beast — open live" /></a></td>
+<td><a href="https://yoginii.co"><img src="./assets/dep/yoginii.svg" width="100%" alt="Yoginii — open live" /></a></td>
+<td><a href="https://rockport.in"><img src="./assets/dep/rockport.svg" width="100%" alt="Rockport India — open live" /></a></td>
+</tr>
+</table>
+
+<sub>↑ every tile is a link — click one to open the live product</sub>
 
 **things i built and run**
 
