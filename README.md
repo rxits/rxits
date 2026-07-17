@@ -280,6 +280,22 @@ The honest short version: whatever gets it live fastest without falling over.
 
 <br/>
 
+## 🖤 the signal wall
+
+<sub>a live guestbook — leave your mark and a GitHub Action posts it here in a minute or two. no account setup, just a click.</sub>
+
+<div align="center">
+
+<img src="./assets/wall.svg" width="100%" alt="signal wall — visitors leave their mark" />
+
+<br/>
+
+### [📡 leave your signal on the wall →](https://github.com/rxits/rxits/issues/new?title=signal%3A+&body=One+line+below+%28your+%40handle+is+added+automatically%29%3A%0A%0A)
+
+</div>
+
+<br/>
+
 ## let's talk
 
 If you're building something interesting — or you just want to see how far one person and a room full of agents can get — I'd genuinely love to hear about it.
