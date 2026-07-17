@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 124" width="840" height="124" fill="none" role="img" aria-label="signal wall">
+  <title>signal wall — 1 signals</title>
+  <defs>
+    <linearGradient id="wbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0d20"/><stop offset="1" stop-color="#100a1c"/></linearGradient>
+    <linearGradient id="wedge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff00e5"/><stop offset="1" stop-color="#00f0ff"/></linearGradient>
+    <clipPath id="ww"><rect x="6" y="6" width="828" height="112" rx="14"/></clipPath>
+    <style>
+      text{ font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace }
+      .d{ fill:#7f7fb0 } .w{ fill:#e9e9ff } .c{ fill:#00f0ff } .m{ fill:#ff2ee6 }
+      .p{ animation:pl 1.6s ease-in-out infinite } @keyframes pl{0%,100%{opacity:1}50%{opacity:.3}}
+      @media (prefers-reduced-motion:reduce){ .p{animation:none} }
+    </style>
+  </defs>
+  <g clip-path="url(#ww)">
+    <rect x="6" y="6" width="828" height="112" rx="14" fill="url(#wbg)"/>
+    <circle cx="30" cy="34" r="5" fill="#ff2ee6" class="p"/>
+    <text x="44" y="39" font-size="12" letter-spacing="3" class="m">◉ SIGNAL WALL</text>
+    <text x="810" y="39" text-anchor="end" font-size="11" class="d">1 signals · leave yours ↗</text>
+    <line x1="20" y1="52" x2="820" y2="52" stroke="#2a2a55" stroke-opacity="0.5"/>
+    <text x="30" y="70" font-size="14" class="c">@rxit</text><text x="150" y="70" font-size="14" class="w">the wall is open — leave your signal 👇</text><text x="810" y="70" text-anchor="end" font-size="12" class="d">1h ago</text>
+    <rect x="7" y="7" width="826" height="110" rx="13" fill="none" stroke="url(#wedge)" stroke-width="1.3" opacity="0.85"/>
+  </g>
+</svg>
