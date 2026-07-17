@@ -267,7 +267,7 @@ tailored resume + cover letter + outreach email. Local-first. Your data never le
 
 **`languages`**
 
-[![lang](https://skillicons.dev/icons?i=python,typescript,go,bash,rust,sql)](https://skillicons.dev)
+[![lang](https://skillicons.dev/icons?i=python,typescript,go,dart,bash,sql)](https://skillicons.dev)
 
 **`agents · ai`**
 
@@ -279,7 +279,14 @@ tailored resume + cover letter + outreach email. Local-first. Your data never le
 
 **`stack`**
 
-[![stack](https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,docker,postgres,redis,gcp,vercel,supabase,tailwind,vite)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,fastapi,docker,postgres,redis,gcp,vercel,supabase,tailwind)](https://skillicons.dev)
+
+**`commerce · realtime`**
+
+<img src="https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/-Stripe_Connect-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/-Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white" />
 
 **`ops · ground`**
 
