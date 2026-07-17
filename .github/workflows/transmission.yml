@@ -2,7 +2,7 @@ name: transmission
 
 on:
   schedule:
-    - cron: '31 */4 * * *'   # refresh news/facts every 4 hours
+    - cron: '31 * * * *'   # refresh news/facts every hour
   workflow_dispatch:
 
 permissions:

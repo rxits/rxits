@@ -67,9 +67,12 @@ async function collect() {
     const r = await fetch('https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=40', { headers: { 'User-Agent': 'rxits-profile' } });
     return (await r.json()).hits;
   }, []);
-  hn.filter((h) => h.title && NEWS_KW.test(h.title))
+  // take the top keyword matches, then randomly pick from them so each run differs
+  const newsMatches = hn
+    .filter((h) => h.title && NEWS_KW.test(h.title))
     .sort((a, b) => (b.points || 0) - (a.points || 0))
-    .slice(0, 4)
+    .slice(0, 12);
+  shuffle(newsMatches).slice(0, 4)
     .forEach((h) => items.push({ type: 'news', text: cap(h.title, 90), meta: h.url ? domain(h.url) : 'news.ycombinator.com' }));
 
   // FACTS — Claude + modern tech
