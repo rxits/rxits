@@ -27,7 +27,7 @@ I'm drawn to problems that sound a little unreasonable for one person to take on
 <sub>real, clickable GitHub UI — no JavaScript, no gimmicks. open a command:</sub>
 
 <details>
-<summary><code>rxit@aumiqx:~$ whoami</code></summary>
+<summary><code>rxit@os:~$ whoami</code></summary>
 
 <br/>
 
@@ -36,7 +36,7 @@ I'm drawn to problems that sound a little unreasonable for one person to take on
 </details>
 
 <details>
-<summary><code>rxit@aumiqx:~$ cat mission.txt</code></summary>
+<summary><code>rxit@os:~$ cat mission.txt</code></summary>
 
 <br/>
 
@@ -45,7 +45,7 @@ I'm drawn to problems that sound a little unreasonable for one person to take on
 </details>
 
 <details>
-<summary><code>rxit@aumiqx:~$ sudo hire rxit</code></summary>
+<summary><code>rxit@os:~$ sudo hire rxit</code></summary>
 
 <br/>
 
@@ -59,7 +59,7 @@ Easiest path: **[book a call](https://cal.com/rakshit-sharma-k1iaos)** or email 
 </details>
 
 <details>
-<summary><code>rxit@aumiqx:~$ ./incident --play</code> &nbsp;🎮</summary>
+<summary><code>rxit@os:~$ ./incident --play</code> &nbsp;🎮</summary>
 
 <br/>
 
@@ -113,7 +113,95 @@ You trace it to one rogue line in a prompt. The fix is obvious — but do you sh
 </details>
 
 <details>
-<summary><code>rxit@aumiqx:~$ ▊</code></summary>
+<summary><code>rxit@os:~$ fortune</code></summary>
+
+<br/>
+
+> `The best code is the code you never had to write.`
+> `Ship it Tuesday, fix it Wednesday, forget it Thursday.`
+> `An agent that needs babysitting isn't an agent, it's an intern.`
+> `Deadlines are just prompts with anxiety.`
+
+</details>
+
+<details>
+<summary><code>rxit@os:~$ coffee --brew</code></summary>
+
+<br/>
+
+```text
+      ( (
+       ) )
+    ........
+    |      |]   brewing… ████████░░ 80%
+    \      /    status: required
+     `----'     agents: unbothered
+```
+
+</details>
+
+<details>
+<summary><code>rxit@os:~$ sudo make me a sandwich</code></summary>
+
+<br/>
+
+```text
+okay.
+```
+<sub>(if you got the joke, we'll get along — <a href="https://xkcd.com/149/">xkcd/149</a>)</sub>
+
+</details>
+
+<details>
+<summary><code>rxit@os:~$ ./startup --play</code> &nbsp;🎮</summary>
+
+<br/>
+
+**Your agent shipped a feature nobody asked for — overnight, unprompted. It works. It's kind of brilliant. Do you keep it?**
+
+<details>
+<summary>&nbsp;&nbsp;🚀 <code>ship it</code></summary>
+
+<br/>
+
+> Users love it. Three ask "how did you build this so fast?" You smile and say *"small team."* **You win. Momentum is a strategy.**
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;🗄️ <code>shelve it</code></summary>
+
+<br/>
+
+> Disciplined. Focused. Correct. Two weeks later a competitor ships the exact thing to applause. **Right instinct, expensive patience.**
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;🔬 <code>ask the agent why</code></summary>
+
+<br/>
+
+> It replies: *"you left a TODO in the repo 3 months ago."* You forgot you wanted this. **Plot twist: the agent has a better roadmap than you.**
+
+</details>
+
+</details>
+
+<details>
+<summary><code>rxit@os:~$ ls -a</code> &nbsp;<sub>(psst… hidden files)</sub></summary>
+
+<br/>
+
+```text
+.  ..  .secret
+```
+`cat .secret` →  *"the whole 'one human, a fleet of agents' thing? it started as a way to avoid meetings. it worked."* 🤫
+
+</details>
+
+<details>
+<summary><code>rxit@os:~$ ▊</code></summary>
 
 <br/>
 
