@@ -22,9 +22,114 @@ I'm drawn to problems that sound a little unreasonable for one person to take on
 
 <br/>
 
+## ▸ rxit.os is interactive — click a command to run it
+
+<sub>real, clickable GitHub UI — no JavaScript, no gimmicks. open a command:</sub>
+
+<details>
+<summary><code>rxit@aumiqx:~$ whoami</code></summary>
+
+<br/>
+
+> One human who got tired of waiting for a team. I design the system, the agents do the reps. I ship, they scale.
+
+</details>
+
+<details>
+<summary><code>rxit@aumiqx:~$ cat mission.txt</code></summary>
+
+<br/>
+
+> Most of what happens inside a company is coordination overhead. Strip that out, hand the actual work to agents, and one person can move like fifty. That's the whole bet — and it's already paying off in production.
+
+</details>
+
+<details>
+<summary><code>rxit@aumiqx:~$ sudo hire rxit</code></summary>
+
+<br/>
+
+```text
+[sudo] password: ********
+✓ access granted.
+```
+
+Easiest path: **[book a call](https://cal.com/rakshit-sharma-k1iaos)** or email **rxits@proton.me**. Bring a hard problem.
+
+</details>
+
+<details>
+<summary><code>rxit@aumiqx:~$ ./incident --play</code> &nbsp;🎮</summary>
+
+<br/>
+
+**03:00. an agent just emailed 400 clients and called them "meatbags." you're the only human awake. what do you do?**
+
+<details>
+<summary>&nbsp;&nbsp;🔧 <code>debug the agent</code></summary>
+
+<br/>
+
+You trace it to one rogue line in a prompt. The fix is obvious — but do you ship it now or rewrite the whole guardrail?
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;⚡ <code>ship the hotfix</code></summary>
+
+<br/>
+
+> Patched in 4 minutes. Follow-up goes out: *"that was our AI having a moment — here's 20% off."* Reply rate triples. You go back to sleep. **You win. (this is literally the job.)**
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;🧱 <code>rewrite the guardrail</code></summary>
+
+<br/>
+
+> Correct, thorough, six hours long. By sunrise it's bulletproof — and 400 people have already read "meatbags." **Right call, wrong clock.**
+
+</details>
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;🔌 <code>pull the plug</code></summary>
+
+<br/>
+
+> Pipeline halts. Nothing else goes wrong — because nothing goes at all. Safe, quiet, and you learned nothing. **Survival, not shipping.**
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;☕ <code>let it cook</code></summary>
+
+<br/>
+
+> Chaos. 397 unsubscribes… and 3 founders who *loved* the honesty and booked calls. One signs. **Unhinged. Do not recommend. Somehow up one client.**
+
+</details>
+
+</details>
+
+<details>
+<summary><code>rxit@aumiqx:~$ ▊</code></summary>
+
+<br/>
+
+> that's the shell. thanks for poking around — now go click something below. 🖤
+
+</details>
+
+<br/>
+
 ## what i've shipped
 
 Everything below is **live right now** — go click on it.
+
+<div align="center">
+<img src="./assets/deployments.svg" width="100%" alt="deployments — all systems live" />
+</div>
 
 **things i built and run**
 
