@@ -101,88 +101,96 @@ $ _
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00F0FF&height=4&section=header" />
 
-# 🦾  ARSENAL  /  FEATURED OPERATIONS
+# 🚀  BUILT  ·  LIVE IN PRODUCTION
+
+<sub><i>// my own products — running in production right now. click any of them.</i></sub>
 
 </div>
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
-<a href="https://github.com/rxits/traviqx">
-  <img src="https://img.shields.io/badge/TRAVIQX-FF00FF?style=for-the-badge&logo=googleearth&logoColor=white&labelColor=0F0F23" alt="traviqx" />
+<a href="https://bid.nyelizabeth.com">
+  <img src="https://img.shields.io/badge/NY_ELIZABETH-FF00FF?style=for-the-badge&labelColor=0F0F23" alt="ny elizabeth" />
 </a>
 
 <br/><br/>
 
-**Premium experiential travel.**
+**Real-time auction platform.**
 
-`Atelier · Expeditions · Whatever Happens.`
-
-Agent-curated journeys for people who hate templates. Booked by humans, choreographed by agents, never repeated.
+Live clerk-driven bidding for an international luxury auction house.
 
 <br/>
 
-![stack](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
-![stack](https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
-![stack](https://img.shields.io/badge/-Claude-D77655?style=flat-square&logo=anthropic&logoColor=white)
+`Socket.IO · Redis · Stripe Connect multi-tenant · Flutter app`
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-STEALTH-FF0055?style=flat-square&labelColor=0F0F23" />
-<img src="https://img.shields.io/badge/ACCESS-INVITE_ONLY-FF0055?style=flat-square&labelColor=0F0F23" />
+<a href="https://bid.nyelizabeth.com"><img src="https://img.shields.io/badge/●_LIVE-39FF14?style=flat-square&labelColor=0F0F23" /></a>
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
-<a href="https://github.com/rxits/aumiqx-leadgen">
-  <img src="https://img.shields.io/badge/AUMIQX_LEADGEN-00F0FF?style=for-the-badge&logo=mailgun&logoColor=white&labelColor=0F0F23" alt="aumiqx-leadgen" />
+<a href="https://salesclawd.aumiqx.com">
+  <img src="https://img.shields.io/badge/SALESCLAWD-39FF14?style=for-the-badge&labelColor=0F0F23" alt="salesclawd" />
 </a>
 
 <br/><br/>
 
-**Aumiqx's own outbound engine.**
+**Autonomous marketing employee.**
 
-`n8n + Claude Code headless + Vibe Prospecting + Zoho.`
-
-A pipeline that fills the calendar without a sales team. The first agent we built that earns its own electricity bill.
+3 AI agents that run a small business's marketing end-to-end.
 
 <br/>
 
-![stack](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![stack](https://img.shields.io/badge/-Claude-D77655?style=flat-square&logo=anthropic&logoColor=white)
-![stack](https://img.shields.io/badge/-Zoho-CB2026?style=flat-square&logo=zoho&logoColor=white)
+`18 platform adapters · trust-gated autonomy · 10 parallel Claude processes/run`
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-STEALTH-FF0055?style=flat-square&labelColor=0F0F23" />
-<img src="https://img.shields.io/badge/ACCESS-PRIVATE-FF0055?style=flat-square&labelColor=0F0F23" />
+<a href="https://salesclawd.aumiqx.com"><img src="https://img.shields.io/badge/●_LIVE-39FF14?style=flat-square&labelColor=0F0F23" /></a>
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
-<a href="https://github.com/rxits/clawlab">
-  <img src="https://img.shields.io/badge/CLAWLAB-39FF14?style=for-the-badge&logo=hashnode&logoColor=black&labelColor=0F0F23" alt="clawlab" />
+<a href="https://artindex.ai">
+  <img src="https://img.shields.io/badge/ART_INDEX-00F0FF?style=for-the-badge&labelColor=0F0F23" alt="art index" />
 </a>
 
 <br/><br/>
 
-**The vault of unhinged builds.**
+**Art marketplace + price database.**
 
-`Problem-solving meets crazy. The lab where it all starts.`
-
-A living roadmap of every weird, useful, dangerous idea about to become a real product. Decrypted on launch.
+Live auctions with a real market-data layer for fine art.
 
 <br/>
 
-![stack](https://img.shields.io/badge/-Ideas-FF00FF?style=flat-square)
-![stack](https://img.shields.io/badge/-Specs-00F0FF?style=flat-square)
-![stack](https://img.shields.io/badge/-Chaos-39FF14?style=flat-square)
+`Artsy / Algolia data layer · live auctions`
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-STEALTH-FF0055?style=flat-square&labelColor=0F0F23" />
-<img src="https://img.shields.io/badge/ACCESS-CLASSIFIED-FF0055?style=flat-square&labelColor=0F0F23" />
+<a href="https://artindex.ai"><img src="https://img.shields.io/badge/●_LIVE-39FF14?style=flat-square&labelColor=0F0F23" /></a>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<a href="https://aumiqx.com">
+  <img src="https://img.shields.io/badge/AUMIQX-FF0055?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0F23" alt="aumiqx" />
+</a>
+
+<br/><br/>
+
+**The company site.**
+
+The AI-native services co the whole machine runs on.
+
+<br/>
+
+`342 programmatic-SEO pages · daily data pipelines · static-export CI`
+
+<br/>
+
+<a href="https://aumiqx.com"><img src="https://img.shields.io/badge/●_LIVE-39FF14?style=flat-square&labelColor=0F0F23" /></a>
 
 </td>
 </tr>
