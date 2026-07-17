@@ -1,15 +1,15 @@
-name: hot-take
+name: transmission
 
 on:
   schedule:
-    - cron: '41 */6 * * *'   # reshuffle the rotation order every 6 hours
+    - cron: '31 */4 * * *'   # refresh news/facts every 4 hours
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: hot-take
+  group: transmission
   cancel-in-progress: true
 
 jobs:
@@ -20,12 +20,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Reshuffle hot-takes
-        run: node scripts/gen-hottake.mjs
+      - name: Refresh transmission (news + facts + takes)
+        run: node scripts/gen-transmission.mjs
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/hot-take.svg
-          git diff --staged --quiet || git commit -m "chore: reshuffle hot-takes [skip ci]"
+          git add assets/transmission.svg
+          git diff --staged --quiet || git commit -m "chore: refresh transmission [skip ci]"
           git push
