@@ -16,7 +16,7 @@
 
 ## hey, i'm Rakshit — most people call me rxit
 
-I build small teams of AI agents that do the work a whole company used to need. One human (me), a fleet of agents, and a habit of shipping things that actually go live. I cofounded [**Aumiqx**](https://aumiqx.com), where that idea turned into real products people use every day.
+I build small teams of AI agents that do the work a whole company used to need. One human (me), a fleet of agents, and a habit of shipping things that actually go live. I work at  [**Aumiqx**](https://aumiqx.com), where that idea turned into real products people use every day.
 
 I'm drawn to problems that sound a little unreasonable for one person to take on — a real-time auction platform, an autonomous marketing employee, a site for a €200M brand — and then quietly getting them into production. If it's live and someone's using it, that's the part I care about.
 
