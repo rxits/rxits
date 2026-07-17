@@ -76,7 +76,7 @@
 
     <!-- boot log (left) -->
     <g font-size="14.5">
-      <text x="34" y="196" class="dim">rxit@aumiqx:<tspan class="cy">~</tspan>$ <tspan class="brt">boot --os</tspan></text>
+      <text x="34" y="196" class="dim">rxit@os:<tspan class="cy">~</tspan>$ <tspan class="brt">boot --os</tspan></text>
       <g clip-path="url(#tclip)">
         <text x="34" y="226" class="cy">&gt; initializing rxit.os</text>
       </g>
@@ -89,7 +89,7 @@
     </g>
 
     <!-- prompt -->
-    <text x="34" y="430" font-size="14.5" class="ln l6"><tspan class="dim">rxit@aumiqx:</tspan><tspan class="cy">~</tspan><tspan class="dim">$</tspan> <tspan class="brt">one human, a fleet of agents</tspan><tspan class="cy cur"> ▊</tspan></text>
+    <text x="34" y="430" font-size="14.5" class="ln l6"><tspan class="dim">rxit@os:</tspan><tspan class="cy">~</tspan><tspan class="dim">$</tspan> <tspan class="brt">one human, a fleet of agents</tspan><tspan class="cy cur"> ▊</tspan></text>
 
     <!-- right panel -->
     <line x1="486" y1="70" x2="486" y2="452" stroke="#2a2a55" stroke-opacity="0.5"/>
