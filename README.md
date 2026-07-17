@@ -242,16 +242,12 @@ tailored resume + cover letter + outreach email. Local-first. Your data never le
 
 <br/>
 
-| operation | what shipped | proof |
+| brand | what shipped | proof |
 |---|---|---|
-| **NY Elizabeth** | real-time auction platform — live clerk-driven bidding, Socket.IO + Redis, Stripe Connect multi-tenant, Flutter app | [bid.nyelizabeth.com](https://bid.nyelizabeth.com) |
-| **SalesClawd** | autonomous marketing employee — 3 AI agents, 18 platform adapters, trust-gated autonomy, 10 parallel Claude processes per run | [salesclawd.aumiqx.com](https://salesclawd.aumiqx.com) |
-| **Art Index** | art marketplace + price database — live auctions, Artsy/Algolia data layer | [artindex.ai](https://artindex.ai) |
-| **Aumiqx** | the company site — 342 programmatic-SEO pages, daily data pipelines, static-export CI | [aumiqx.com](https://aumiqx.com) |
-| **Yoginii** | wellness platform — multi-vendor Shopify dashboard (Metaobjects vendor registry, webhook commission engine) | [yoginii.co](https://yoginii.co) |
-| **Beast** | Cannes Lions-winning London studio — full site, built solo on their stack | [beast.agency](https://beast.agency) |
-| **air-up** | €200M+ German DTC brand — site build, deployed direct to production | [air-up.com](https://air-up.com) |
-| **Rockport India** | men's footwear e-commerce, Shopify | [rockport.in](https://rockport.in) |
+| **air-up** 🇩🇪 | €200M+ German DTC brand — site build, deployed **direct to production** | [air-up.com](https://air-up.com) |
+| **Beast** 🦁 | **Cannes Lions-winning** London studio — full site, built solo on their stack | [beast.agency](https://beast.agency) |
+| **Yoginii** 🧘 | wellness platform — multi-vendor Shopify dashboard, Metaobjects vendor registry + webhook commission engine | [yoginii.co](https://yoginii.co) |
+| **Rockport India** 👞 | men's footwear e-commerce on Shopify | [rockport.in](https://rockport.in) |
 
 </div>
 
