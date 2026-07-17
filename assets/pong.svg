@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 260" width="840" height="260" fill="none" role="img" aria-label="rxit.os arcade — pong, playing itself">
+  <title>rxit.os arcade — pong</title>
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0d20"/><stop offset="1" stop-color="#100a1c"/></linearGradient>
+    <linearGradient id="pedge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#ff00e5"/></linearGradient>
+    <clipPath id="pw"><rect x="6" y="6" width="828" height="248" rx="14"/></clipPath>
+    <filter id="pglow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      text{ font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace }
+      .ball{ animation:ball 6s linear infinite }
+      .lp{ animation:lp 6s linear infinite }
+      .rp{ animation:rp 6s linear infinite }
+      @keyframes ball{
+        0%{transform:translate(66px,144px)} 12.5%{transform:translate(762px,64px)}
+        25%{transform:translate(66px,224px)} 37.5%{transform:translate(762px,144px)}
+        50%{transform:translate(66px,64px)} 62.5%{transform:translate(762px,224px)}
+        75%{transform:translate(66px,144px)} 87.5%{transform:translate(762px,64px)}
+        100%{transform:translate(66px,144px)}
+      }
+      @keyframes lp{ 0%{transform:translateY(126px)} 25%{transform:translateY(200px)} 50%{transform:translateY(40px)} 75%{transform:translateY(126px)} 100%{transform:translateY(126px)} }
+      @keyframes rp{ 0%{transform:translateY(76px)} 12.5%{transform:translateY(40px)} 37.5%{transform:translateY(120px)} 62.5%{transform:translateY(200px)} 87.5%{transform:translateY(40px)} 100%{transform:translateY(76px)} }
+      @media (prefers-reduced-motion:reduce){ .ball,.lp,.rp{animation:none} }
+    </style>
+  </defs>
+  <g clip-path="url(#pw)">
+    <rect x="6" y="6" width="828" height="248" rx="14" fill="url(#pbg)"/>
+
+    <text x="30" y="38" font-size="12" letter-spacing="3" fill="#00f0ff">◉ rxit.os // arcade</text>
+    <text x="810" y="38" text-anchor="end" font-size="11" fill="#7f7fb0">pong · it plays itself</text>
+    <line x1="20" y1="52" x2="820" y2="52" stroke="#2a2a55" stroke-opacity="0.5"/>
+
+    <!-- scoreboard -->
+    <text x="360" y="82" text-anchor="end" font-size="20" font-weight="700" fill="#00f0ff">rxit 07</text>
+    <text x="420" y="82" text-anchor="middle" font-size="16" fill="#7f7fb0">:</text>
+    <text x="480" y="82" text-anchor="start" font-size="20" font-weight="700" fill="#ff2ee6">05 cpu</text>
+
+    <!-- court -->
+    <rect x="52" y="96" width="736" height="150" rx="6" fill="none" stroke="#2a2a55" stroke-opacity="0.6"/>
+    <line x1="420" y1="102" x2="420" y2="240" stroke="#2a2a55" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="6 8"/>
+
+    <!-- paddles (y translate animated; base y=96 court top) -->
+    <rect class="lp" x="44" y="96" width="9" height="48" rx="4" fill="#00f0ff" filter="url(#pglow)"/>
+    <rect class="rp" x="787" y="96" width="9" height="48" rx="4" fill="#ff2ee6" filter="url(#pglow)"/>
+
+    <!-- ball -->
+    <rect class="ball" x="-6" y="-6" width="12" height="12" rx="2" fill="#39ff14" filter="url(#pglow)"/>
+
+    <rect x="7" y="7" width="826" height="246" rx="13" fill="none" stroke="url(#pedge)" stroke-width="1.3" opacity="0.85"/>
+  </g>
+</svg>
