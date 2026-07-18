@@ -260,12 +260,12 @@ okay.
 
 <br/>
 
-## 📡 today's transmission
+## 📡 open to work
 
-<sub>live tech news + facts + a rotating hot-take — pulled fresh by a GitHub Action, cycling on its own so there's always something new on screen.</sub>
+<sub>the roles I'm after, the stack I ship in, and how to reach me — an auto-rotating panel. Available now for remote / international work.</sub>
 
 <div align="center">
-<img src="./assets/transmission.svg" width="100%" alt="transmission — live news, facts, and hot takes" />
+<img src="./assets/transmission.svg" width="100%" alt="open to work — roles, stack, and how to reach rxit" />
 </div>
 
 <br/>
