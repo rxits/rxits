@@ -19,74 +19,74 @@
     <text x="810" y="39" text-anchor="end" font-size="11" fill="#7f7fb0">Claude &amp; modern tech · auto-rotating</text>
     <line x1="20" y1="52" x2="820" y2="52" stroke="#2a2a55" stroke-opacity="0.5"/>
     <g class="s" style="animation-delay:0.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#ff2ee6">▸ HOT TAKE</text>
-      <text x="420" y="104" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">senior means you delete more than you add.</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">— rxit</text>
-    </g>
-    <g class="s" style="animation-delay:6.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#ff2ee6">▸ HOT TAKE</text>
-      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">agents don’t do standups. that’s the whole</tspan><tspan x="420" dy="30">pitch.</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">— rxit</text>
-    </g>
-    <g class="s" style="animation-delay:12.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#39ff14">▸ FACT</text>
-      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">edge functions run near the user, shaving</tspan><tspan x="420" dy="30">real latency off every request.</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">tech fact</text>
-    </g>
-    <g class="s" style="animation-delay:18.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#ff2ee6">▸ HOT TAKE</text>
-      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">ship it tuesday, feel things about it</tspan><tspan x="420" dy="30">wednesday.</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">— rxit</text>
-    </g>
-    <g class="s" style="animation-delay:24.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#00f0ff">▸ NEWS</text>
-      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">SnapState - Persistent state for AI agent</tspan><tspan x="420" dy="30">workflows</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">snapstate.dev</text>
-    </g>
-    <g class="s" style="animation-delay:30.00s">
       <text x="30" y="76" font-size="12" letter-spacing="3" fill="#39ff14">▸ FACT</text>
       <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">vector embeddings turn meaning into</tspan><tspan x="420" dy="30">coordinates you can literally do math on.</tspan></text>
       <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">tech fact</text>
     </g>
-    <g class="s" style="animation-delay:36.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#39ff14">▸ FACT</text>
-      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">MCP (Model Context Protocol) is a standard</tspan><tspan x="420" dy="30">that lets any agent plug into any tool.</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">tech fact</text>
-    </g>
-    <g class="s" style="animation-delay:42.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#ff2ee6">▸ HOT TAKE</text>
-      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">'we'll need a team for that' is usually a</tspan><tspan x="420" dy="30">weekend.</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">— rxit</text>
-    </g>
-    <g class="s" style="animation-delay:48.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#39ff14">▸ FACT</text>
-      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">Claude is named after Claude Shannon, the</tspan><tspan x="420" dy="30">father of information theory.</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">tech fact</text>
-    </g>
-    <g class="s" style="animation-delay:54.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#39ff14">▸ FACT</text>
-      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">an LLM at temperature 0 is</tspan><tspan x="420" dy="30">near-deterministic; crank it up for more ch…</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">tech fact</text>
-    </g>
-    <g class="s" style="animation-delay:60.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#00f0ff">▸ NEWS</text>
-      <text x="420" y="104" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">Open Book Touch: open-source e-reader</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">crowdsupply.com</text>
-    </g>
-    <g class="s" style="animation-delay:66.00s">
-      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#ff2ee6">▸ HOT TAKE</text>
-      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">i don’t have work-life balance, i have a</tspan><tspan x="420" dy="30">deploy pipeline.</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">— rxit</text>
-    </g>
-    <g class="s" style="animation-delay:72.00s">
+    <g class="s" style="animation-delay:6.00s">
       <text x="30" y="76" font-size="12" letter-spacing="3" fill="#00f0ff">▸ NEWS</text>
       <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">Kaiser nurses say AI, workplace surveillance</tspan><tspan x="420" dy="30">are making their jobs, care worse</tspan></text>
       <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">localnewsmatters.org</text>
     </g>
-    <g class="s" style="animation-delay:78.00s">
+    <g class="s" style="animation-delay:12.00s">
       <text x="30" y="76" font-size="12" letter-spacing="3" fill="#00f0ff">▸ NEWS</text>
-      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">Topcoat: The full full-stack framework for</tspan><tspan x="420" dy="30">Rust</tspan></text>
-      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">github.com</text>
+      <text x="420" y="104" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">The state of open source AI</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">stateofopensource.ai</text>
+    </g>
+    <g class="s" style="animation-delay:18.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#00f0ff">▸ NEWS</text>
+      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">SnapState - Persistent state for AI agent</tspan><tspan x="420" dy="30">workflows</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">snapstate.dev</text>
+    </g>
+    <g class="s" style="animation-delay:24.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#39ff14">▸ FACT</text>
+      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">an LLM at temperature 0 is</tspan><tspan x="420" dy="30">near-deterministic; crank it up for more ch…</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">tech fact</text>
+    </g>
+    <g class="s" style="animation-delay:30.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#ff2ee6">▸ HOT TAKE</text>
+      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">most 'AI strategy' is three prompts in a</tspan><tspan x="420" dy="30">trench coat.</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">— rxit</text>
+    </g>
+    <g class="s" style="animation-delay:36.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#ff2ee6">▸ HOT TAKE</text>
+      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">i don’t have work-life balance, i have a</tspan><tspan x="420" dy="30">deploy pipeline.</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">— rxit</text>
+    </g>
+    <g class="s" style="animation-delay:42.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#39ff14">▸ FACT</text>
+      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">TypeScript's types vanish at runtime — a</tspan><tspan x="420" dy="30">compile-time safety net, nothing more.</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">tech fact</text>
+    </g>
+    <g class="s" style="animation-delay:48.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#ff2ee6">▸ HOT TAKE</text>
+      <text x="420" y="104" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">the demo is the spec.</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">— rxit</text>
+    </g>
+    <g class="s" style="animation-delay:54.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#00f0ff">▸ NEWS</text>
+      <text x="420" y="104" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">Open Book Touch: open-source e-reader</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">crowdsupply.com</text>
+    </g>
+    <g class="s" style="animation-delay:60.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#39ff14">▸ FACT</text>
+      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">Claude can hold up to a 1M-token context —</tspan><tspan x="420" dy="30">roughly a 700k-word book, in memory at once.</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">tech fact</text>
+    </g>
+    <g class="s" style="animation-delay:66.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#39ff14">▸ FACT</text>
+      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">Claude is named after Claude Shannon, the</tspan><tspan x="420" dy="30">father of information theory.</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">tech fact</text>
+    </g>
+    <g class="s" style="animation-delay:72.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#ff2ee6">▸ HOT TAKE</text>
+      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">'we'll need a team for that' is usually a</tspan><tspan x="420" dy="30">weekend.</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">— rxit</text>
+    </g>
+    <g class="s" style="animation-delay:78.00s">
+      <text x="30" y="76" font-size="12" letter-spacing="3" fill="#ff2ee6">▸ HOT TAKE</text>
+      <text x="420" y="90" text-anchor="middle" font-size="20" font-weight="700" fill="#e9e9ff"><tspan x="420" dy="0">one human, a fleet of agents, zero</tspan><tspan x="420" dy="30">all-hands.</tspan></text>
+      <text x="810" y="150" text-anchor="end" font-size="12" fill="#7f7fb0">— rxit</text>
     </g>
     <rect x="7" y="7" width="826" height="158" rx="13" fill="none" stroke="url(#tedge)" stroke-width="1.3" opacity="0.85"/>
   </g>
