@@ -12,7 +12,7 @@
   <a href="https://cal.com/rakshit-sharma-k1iaos">Book a call</a> &nbsp;·&nbsp;
   <a href="mailto:rxits@proton.me">rxits@proton.me</a> &nbsp;·&nbsp;
   <a href="./assets/rxit-cv.pdf">CV (PDF)</a> &nbsp;·&nbsp;
-  <a href="https://github.com/rxit">@rxit</a>
+  <a href="https://github.com/rxits">@rxits</a>
 </p>
 
 ---
@@ -153,20 +153,20 @@ Tools that show up in the case files above — not a wishlist.
 <tr>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rxit&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f1116&title_color=d7a13b&text_color=99a0af&icon_color=d7a13b">
-  <img src="https://github-readme-stats.vercel.app/api?username=rxit&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=f6f8fa&title_color=d7a13b&text_color=3a4150&icon_color=d7a13b" alt="rxit's GitHub stats" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rxits&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f1116&title_color=d7a13b&text_color=99a0af&icon_color=d7a13b">
+  <img src="https://github-readme-stats.vercel.app/api?username=rxits&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=f6f8fa&title_color=d7a13b&text_color=3a4150&icon_color=d7a13b" alt="rxit's GitHub stats" width="100%">
 </picture>
 </td>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rxit&layout=compact&hide_border=true&langs_count=8&bg_color=0f1116&title_color=d7a13b&text_color=99a0af&icon_color=d7a13b">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxit&layout=compact&hide_border=true&langs_count=8&bg_color=f6f8fa&title_color=d7a13b&text_color=3a4150&icon_color=d7a13b" alt="rxit's most-used languages" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rxits&layout=compact&hide_border=true&langs_count=8&bg_color=0f1116&title_color=d7a13b&text_color=99a0af&icon_color=d7a13b">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxits&layout=compact&hide_border=true&langs_count=8&bg_color=f6f8fa&title_color=d7a13b&text_color=3a4150&icon_color=d7a13b" alt="rxit's most-used languages" width="100%">
 </picture>
 </td>
 </tr>
 </table>
 
-<img src="https://ghchart.rshah.org/d7a13b/rxit" width="100%" alt="rxit's GitHub contribution graph">
+<img src="https://ghchart.rshah.org/d7a13b/rxits" width="100%" alt="rxit's GitHub contribution graph">
 
 ---
 
@@ -180,6 +180,6 @@ Tools that show up in the case files above — not a wishlist.
 | 📅 **Book a call** | [cal.com/rakshit-sharma-k1iaos](https://cal.com/rakshit-sharma-k1iaos) — 15 or 30 min |
 | ✉️ **Email** | [rxits@proton.me](mailto:rxits@proton.me) |
 | 📄 **CV** | [rxit-cv.pdf](./assets/rxit-cv.pdf) |
-| 🐙 **GitHub** | [@rxit](https://github.com/rxit) |
+| 🐙 **GitHub** | [@rxits](https://github.com/rxits) |
 
 <sub>Case file open. Happy to walk through any record above on a call.</sub>
