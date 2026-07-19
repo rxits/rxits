@@ -1,293 +1,185 @@
-<!-- rxit.os — profile README. hero is a hand-built animated SVG (assets/rxit-os.svg). -->
+<!-- ============================================================
+     rxit — GitHub profile README
+     CONCEPT: "THE CASE FILES" — an evidence dossier.
+     Each flagship product is a mini case study: Problem → Built → Result → live link.
+     All hero/graphic SVGs are self-contained (correct on GitHub light + dark).
+     ============================================================ -->
 
-<div align="center">
+<a href="https://aumiqx.com"><img src="./assets/hero.svg" width="100%" alt="Case file — rxit, product builder at Aumiqx. Open to work, remote and international. 8 products shipped to production."></a>
 
-<img src="./assets/rxit-os.svg" width="100%" alt="rxit.os — one human, a fleet of agents" />
-
-<p>
-  <a href="https://aumiqx.com">🌐&nbsp;aumiqx.com</a> &nbsp;·&nbsp;
-  <a href="https://cal.com/rakshit-sharma-k1iaos">📅&nbsp;book a call</a> &nbsp;·&nbsp;
-  <a href="mailto:rxits@proton.me">✉️&nbsp;say hi</a>
+<p align="center">
+  <a href="https://aumiqx.com"><b>Live work ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://cal.com/rakshit-sharma-k1iaos">Book a call</a> &nbsp;·&nbsp;
+  <a href="mailto:rxits@proton.me">rxits@proton.me</a> &nbsp;·&nbsp;
+  <a href="./assets/rxit-cv.pdf">CV (PDF)</a> &nbsp;·&nbsp;
+  <a href="https://github.com/rxit">@rxit</a>
 </p>
 
-</div>
+---
 
-<br/>
+Most profiles tell you what someone *can* do. This one is a case file of what's already **live**.
 
-## hey, i'm rxit — some spell it Rakshit
+Below are the products I've built and still run in production — the problem each one solved, what I shipped, and where to click to watch it work. Every link is a real, load-bearing thing on the internet. I build them at **[Aumiqx](https://aumiqx.com)**, my studio, and lately I lean on AI agents as an engineering multiplier — more surface shipped per week, same bar for quality.
 
-I run a one-person company that punches like a fifty-person one. The trick isn't 100-hour weeks — it's building a fleet of AI agents to do the reps while I design the system and hit deploy. One human, a lot of agents, zero all-hands.
+## 📁 Case files
 
-I work at [**Aumiqx**](https://aumiqx.com), I don't take meetings I could've automated, and my favourite sound is a green CI check at 3am. Everything I've shipped is right below — all live, all clickable. Have a poke around. 👇
+> Five records from production. Each one is live and clickable — the **Result** line is the 8-second version.
 
-<br/>
-
-## 🚀 what i've shipped
-
-Everything below is **live right now** — go click on it.
-
+<!-- ─────────────── CASE FILE 01 ─────────────── -->
 <table>
 <tr>
-<td width="25%"><a href="https://bid.nyelizabeth.com"><img src="./assets/dep/nyelizabeth.svg" width="100%" alt="NY Elizabeth — open live" /></a></td>
-<td width="25%"><a href="https://salesclawd.aumiqx.com"><img src="./assets/dep/salesclawd.svg" width="100%" alt="SalesClawd — open live" /></a></td>
-<td width="25%"><a href="https://artindex.ai"><img src="./assets/dep/artindex.svg" width="100%" alt="Art Index — open live" /></a></td>
-<td width="25%"><a href="https://aumiqx.com"><img src="./assets/dep/aumiqx.svg" width="100%" alt="Aumiqx — open live" /></a></td>
-</tr>
-<tr>
-<td><a href="https://air-up.com"><img src="./assets/dep/airup.svg" width="100%" alt="air-up — open live" /></a></td>
-<td><a href="https://beast.agency"><img src="./assets/dep/beast.svg" width="100%" alt="Beast — open live" /></a></td>
-<td><a href="https://yoginii.co"><img src="./assets/dep/yoginii.svg" width="100%" alt="Yoginii — open live" /></a></td>
-<td><a href="https://rockport.in"><img src="./assets/dep/rockport.svg" width="100%" alt="Rockport India — open live" /></a></td>
+<td valign="top" width="35%">
+<a href="https://bid.nyelizabeth.com"><img src="./assets/dep/nyelizabeth.svg" width="100%" alt="NY Elizabeth — live, real-time auctions. Open site."></a>
+</td>
+<td valign="top" width="65%">
+<b>CASE FILE 01 · NY Elizabeth</b> — real-time auctions<br><br>
+<b>Problem</b> — an international luxury auction house needed to run live, clerk-driven auctions online: every bid reflected in real time, money moving safely.<br><br>
+<b>Built</b> — a real-time bidding engine on <code>Socket.IO</code> + <code>Redis</code>, a clerk console for live lots, <code>Stripe&nbsp;Connect</code> payouts, and a <code>Flutter</code> app for bidders.<br><br>
+▸ <b>Result — live, real-money clerk-driven auctions running in production for an international house.</b> &nbsp;<sub><a href="https://bid.nyelizabeth.com">bid.nyelizabeth.com ↗</a> · [GMV / bid-volume TK]</sub>
+</td>
 </tr>
 </table>
 
-<sub>↑ every tile is a link — click one to open the live product</sub>
-
-**things i built and run**
-
-| project | what it is | |
-|---|---|:--|
-| **NY Elizabeth** | A real-time auction platform for an international luxury house — live, clerk-driven bidding on Socket.IO + Redis, Stripe Connect, and a Flutter app. | 🟢 [bid.nyelizabeth.com](https://bid.nyelizabeth.com) |
-| **SalesClawd** | An autonomous marketing employee for small businesses — three AI agents working across 18 platforms with trust-gated autonomy. | 🟢 [salesclawd.aumiqx.com](https://salesclawd.aumiqx.com) |
-| **Art Index** | An art marketplace and price database with live auctions, built on an Artsy / Algolia data layer. | 🟢 [artindex.ai](https://artindex.ai) |
-| **Aumiqx** | The company itself — 342 programmatic-SEO pages, daily data pipelines, and static-export CI. | 🟢 [aumiqx.com](https://aumiqx.com) |
-
-**brands i've built for**
-
-| client | what i did | |
-|---|---|:--|
-| **air-up** 🇩🇪 | Built for a €200M+ German DTC brand and shipped straight to production. | 🟢 [air-up.com](https://air-up.com) |
-| **Beast** 🦁 | The full site for a Cannes Lions–winning London studio, built solo on their stack. | 🟢 [beast.agency](https://beast.agency) |
-| **Yoginii** 🧘 | A wellness platform with a multi-vendor Shopify dashboard and a webhook commission engine. | 🟢 [yoginii.co](https://yoginii.co) |
-| **Rockport India** 👞 | Men's footwear e-commerce on Shopify. | 🟢 [rockport.in](https://rockport.in) |
-
-<br/>
-
-## 🛠 tech stack
-
-I mostly live in **TypeScript** and **Python**, with **Next.js** and **Flutter** up front and **Postgres**, **Redis**, and **Supabase** behind them. The agents run on **Claude** and **Gemini**, wired together with a good amount of custom orchestration. For commerce and real-time work it's usually **Shopify**, **Stripe Connect**, **Socket.IO**, and **Algolia**, and everything ships through **Docker**, **Vercel**, and **Cloudflare**.
-
-The honest short version: whatever gets it live fastest without falling over.
-
-<br/>
-
-## ▸ rxit.os is interactive — click a command to run it
-
-<sub>real, clickable GitHub UI — no JavaScript, no gimmicks. open a command:</sub>
-
-<details>
-<summary><code>rxit@os:~$ whoami</code></summary>
-
-<br/>
-
-> One human who got tired of waiting for a team. I design the system, the agents do the reps. I ship, they scale.
-
-</details>
-
-<details>
-<summary><code>rxit@os:~$ cat mission.txt</code></summary>
-
-<br/>
-
-> Most of what happens inside a company is coordination overhead. Strip that out, hand the actual work to agents, and one person can move like fifty. That's the whole bet — and it's already paying off in production.
-
-</details>
-
-<details>
-<summary><code>rxit@os:~$ sudo hire rxit</code></summary>
-
-<br/>
-
-```text
-[sudo] password: ********
-✓ access granted.
-```
-
-Easiest path: **[book a call](https://cal.com/rakshit-sharma-k1iaos)** or email **rxits@proton.me**. Bring a hard problem.
-
-</details>
-
-<details>
-<summary><code>rxit@os:~$ ./incident --play</code> &nbsp;🎮</summary>
-
-<br/>
-
-**03:00. an agent just emailed 400 clients and called them "meatbags." you're the only human awake. what do you do?**
-
-<details>
-<summary>&nbsp;&nbsp;🔧 <code>debug the agent</code></summary>
-
-<br/>
-
-You trace it to one rogue line in a prompt. The fix is obvious — but do you ship it now or rewrite the whole guardrail?
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;⚡ <code>ship the hotfix</code></summary>
-
-<br/>
-
-> Patched in 4 minutes. Follow-up goes out: *"that was our AI having a moment — here's 20% off."* Reply rate triples. You go back to sleep. **You win. (this is literally the job.)**
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;🧱 <code>rewrite the guardrail</code></summary>
-
-<br/>
-
-> Correct, thorough, six hours long. By sunrise it's bulletproof — and 400 people have already read "meatbags." **Right call, wrong clock.**
-
-</details>
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;🔌 <code>pull the plug</code></summary>
-
-<br/>
-
-> Pipeline halts. Nothing else goes wrong — because nothing goes at all. Safe, quiet, and you learned nothing. **Survival, not shipping.**
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;☕ <code>let it cook</code></summary>
-
-<br/>
-
-> Chaos. 397 unsubscribes… and 3 founders who *loved* the honesty and booked calls. One signs. **Unhinged. Do not recommend. Somehow up one client.**
-
-</details>
-
-</details>
-
-<details>
-<summary><code>rxit@os:~$ fortune</code></summary>
-
-<br/>
-
-> `The best code is the code you never had to write.`
-> `Ship it Tuesday, fix it Wednesday, forget it Thursday.`
-> `An agent that needs babysitting isn't an agent, it's an intern.`
-> `Deadlines are just prompts with anxiety.`
-
-</details>
-
-<details>
-<summary><code>rxit@os:~$ coffee --brew</code></summary>
-
-<br/>
-
-```text
-      ( (
-       ) )
-    ........
-    |      |]   brewing… ████████░░ 80%
-    \      /    status: required
-     `----'     agents: unbothered
-```
-
-</details>
-
-<details>
-<summary><code>rxit@os:~$ sudo make me a sandwich</code></summary>
-
-<br/>
-
-```text
-okay.
-```
-<sub>(if you got the joke, we'll get along — <a href="https://xkcd.com/149/">xkcd/149</a>)</sub>
-
-</details>
-
-<details>
-<summary><code>rxit@os:~$ ./startup --play</code> &nbsp;🎮</summary>
-
-<br/>
-
-**Your agent shipped a feature nobody asked for — overnight, unprompted. It works. It's kind of brilliant. Do you keep it?**
-
-<details>
-<summary>&nbsp;&nbsp;🚀 <code>ship it</code></summary>
-
-<br/>
-
-> Users love it. Three ask "how did you build this so fast?" You smile and say *"small team."* **You win. Momentum is a strategy.**
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;🗄️ <code>shelve it</code></summary>
-
-<br/>
-
-> Disciplined. Focused. Correct. Two weeks later a competitor ships the exact thing to applause. **Right instinct, expensive patience.**
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;🔬 <code>ask the agent why</code></summary>
-
-<br/>
-
-> It replies: *"you left a TODO in the repo 3 months ago."* You forgot you wanted this. **Plot twist: the agent has a better roadmap than you.**
-
-</details>
-
-</details>
-
-<details>
-<summary><code>rxit@os:~$ ls -a</code> &nbsp;<sub>(psst… hidden files)</sub></summary>
-
-<br/>
-
-```text
-.  ..  .secret
-```
-`cat .secret` →  *"the whole 'one human, a fleet of agents' thing? it started as a way to avoid meetings. it worked."* 🤫
-
-</details>
-
-<details>
-<summary><code>rxit@os:~$ ▊</code></summary>
-
-<br/>
-
-> that's the shell. thanks for poking around. 🖤
-
-</details>
-
-<br/>
-
-## 📡 open to work
-
-<sub>the roles I'm after, the stack I ship in, and how to reach me — an auto-rotating panel. Available now for remote / international work.</sub>
-
-<div align="center">
-<img src="./assets/transmission.svg" width="100%" alt="open to work — roles, stack, and how to reach rxit" />
-</div>
-
-<br/>
-
-## 🕹️ rxit.os arcade
-
-<sub>the old contribution snake was boring, so here's a game of pong playing itself. cyan's winning.</sub>
-
-<div align="center">
-<img src="./assets/pong.svg" width="100%" alt="pong — playing itself" />
-</div>
-
-<br/>
-
-## let's talk
-
-If you're building something interesting — or you just want to see how far one person and a room full of agents can get — I'd genuinely love to hear about it.
-
-📅 **[Book a 15-min chat](https://cal.com/rakshit-sharma-k1iaos/15min)** &nbsp;·&nbsp; **[or a 30-min deep dive](https://cal.com/rakshit-sharma-k1iaos/30min)**
-🌐 [aumiqx.com](https://aumiqx.com) &nbsp;·&nbsp; ✉️ [rxits@proton.me](mailto:rxits@proton.me)
-
-<div align="center">
-<br/>
-<sub>built and shipped by rxit — one human, a fleet of agents.</sub>
-</div>
+<!-- ─────────────── CASE FILE 02 ─────────────── -->
+<table>
+<tr>
+<td valign="top" width="35%">
+<a href="https://salesclawd.aumiqx.com"><img src="./assets/dep/salesclawd.svg" width="100%" alt="SalesClawd — live, autonomous marketing agents. Open site."></a>
+</td>
+<td valign="top" width="65%">
+<b>CASE FILE 02 · SalesClawd</b> — autonomous marketing "employee"<br><br>
+<b>Problem</b> — small businesses can't staff a full marketing team, but still need the output a team produces.<br><br>
+<b>Built</b> — an autonomous marketing hire: <code>3 AI agents</code> working across <code>18 platforms</code> with trust-gated autonomy — the owner approves what matters, the rest runs on its own. Built on <code>Claude</code> + <code>Gemini</code> with custom orchestration.<br><br>
+▸ <b>Result — a working autonomous marketing employee in production: 3 agents, 18 platforms, trust-gated.</b> &nbsp;<sub><a href="https://salesclawd.aumiqx.com">salesclawd.aumiqx.com ↗</a> · [active accounts TK]</sub>
+</td>
+</tr>
+</table>
+
+<!-- ─────────────── CASE FILE 03 ─────────────── -->
+<table>
+<tr>
+<td valign="top" width="35%">
+<a href="https://artindex.ai"><img src="./assets/dep/artindex.svg" width="100%" alt="Art Index — live art marketplace. Open site."></a>
+</td>
+<td valign="top" width="65%">
+<b>CASE FILE 03 · Art Index</b> — marketplace + price database<br><br>
+<b>Problem</b> — art buyers had nowhere to search a market's price history and bid on live lots against reliable data.<br><br>
+<b>Built</b> — an art marketplace and price database with live auctions, on an Artsy / <code>Algolia</code> data layer with fast search and daily data pipelines.<br><br>
+▸ <b>Result — a live marketplace and searchable price database, in production.</b> &nbsp;<sub><a href="https://artindex.ai">artindex.ai ↗</a> · [catalog size TK]</sub>
+</td>
+</tr>
+</table>
+
+<!-- ─────────────── CASE FILE 04 ─────────────── -->
+<table>
+<tr>
+<td valign="top" width="35%">
+<a href="https://air-up.com"><img src="./assets/dep/airup.svg" width="100%" alt="air-up — €200M German DTC brand, live. Open site."></a>
+</td>
+<td valign="top" width="65%">
+<b>CASE FILE 04 · air-up</b> — client · Germany 🇩🇪<br><br>
+<b>Problem</b> — a €200M+ German DTC brand needed production-grade frontend shipped to a high-traffic storefront, held to a high bar.<br><br>
+<b>Built</b> — production frontend built and shipped straight into air-up's live storefront on <code>TypeScript</code> + <code>Next.js</code>.<br><br>
+▸ <b>Result — shipped to production for a €200M+ European DTC brand.</b> &nbsp;<sub><a href="https://air-up.com">air-up.com ↗</a> · international, high-traffic, real revenue</sub>
+</td>
+</tr>
+</table>
+
+<!-- ─────────────── CASE FILE 05 ─────────────── -->
+<table>
+<tr>
+<td valign="top" width="35%">
+<a href="https://beast.agency"><img src="./assets/dep/beast.svg" width="100%" alt="Beast — Cannes Lions-winning London studio, live. Open site."></a>
+</td>
+<td valign="top" width="65%">
+<b>CASE FILE 05 · Beast</b> — client · London 🇬🇧<br><br>
+<b>Problem</b> — a Cannes Lions–winning London creative studio needed their full site built, on their stack, to their standard.<br><br>
+<b>Built</b> — the full site, built solo on the studio's own stack.<br><br>
+▸ <b>Result — full site shipped for a Cannes Lions–winning London studio, built solo.</b> &nbsp;<sub><a href="https://beast.agency">beast.agency ↗</a> · international client, award-grade bar</sub>
+</td>
+</tr>
+</table>
+
+#### Also shipped &amp; running
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://aumiqx.com"><img src="./assets/dep/aumiqx.svg" width="100%" alt="Aumiqx — the studio, live."></a><br><sub>The studio itself — 342 programmatic-SEO pages, daily data pipelines, static-export CI.</sub></td>
+<td width="33%" valign="top"><a href="https://yoginii.co"><img src="./assets/dep/yoginii.svg" width="100%" alt="Yoginii — wellness platform, live."></a><br><sub>Wellness platform — multi-vendor Shopify dashboard + a webhook commission engine.</sub></td>
+<td width="33%" valign="top"><a href="https://rockport.in"><img src="./assets/dep/rockport.svg" width="100%" alt="Rockport India — footwear commerce, live."></a><br><sub>Rockport India — men's footwear e-commerce on Shopify.</sub></td>
+</tr>
+</table>
+
+---
+
+## 🗣️ Field reports
+
+<img src="./assets/field-reports.svg" width="100%" alt="Field reports — client testimonials in collection. Quotes from air-up, Beast and NY Elizabeth are pending sign-off. Placeholder cards.">
+
+<sub>Real quotes from these teams are being collected — the cards above are placeholders until each is signed off. No invented praise here; when a quote lands, it goes in verbatim with attribution.</sub>
+
+<!-- TESTIMONIAL PLACEHOLDER: real quote from air-up (Germany) — TBD, awaiting sign-off -->
+<!-- TESTIMONIAL PLACEHOLDER: real quote from Beast (London) — TBD, awaiting sign-off -->
+<!-- TESTIMONIAL PLACEHOLDER: real quote from NY Elizabeth — TBD, awaiting sign-off -->
+
+---
+
+## 📊 By the numbers
+
+<img src="./assets/metrics.svg" width="100%" alt="By the numbers: 8 live products, 4 client brands shipped, 18 platforms automated, 342 programmatic SEO pages, one €200M-plus DTC brand in production, and a 3-agent AI system.">
+
+---
+
+## 🧰 Stack
+
+Tools that show up in the case files above — not a wishlist.
+
+| Layer | Tools |
+|---|---|
+| **Languages** | `TypeScript` · `Python` |
+| **Frameworks** | `Next.js` · `Flutter` |
+| **Data** | `Postgres` · `Redis` · `Supabase` |
+| **AI** | `Claude` · `Gemini` · custom agent orchestration |
+| **Commerce & real-time** | `Shopify` · `Stripe Connect` · `Socket.IO` · `Algolia` |
+| **Infra** | `Docker` · `Vercel` · `Cloudflare` |
+
+---
+
+## 🟩 On GitHub
+
+<!-- Live external image services (github-readme-stats, ghchart). Themed via <picture> so both GitHub light + dark render correctly. See NOTES.md. -->
+
+<table>
+<tr>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rxit&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f1116&title_color=d7a13b&text_color=99a0af&icon_color=d7a13b">
+  <img src="https://github-readme-stats.vercel.app/api?username=rxit&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=f6f8fa&title_color=d7a13b&text_color=3a4150&icon_color=d7a13b" alt="rxit's GitHub stats" width="100%">
+</picture>
+</td>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rxit&layout=compact&hide_border=true&langs_count=8&bg_color=0f1116&title_color=d7a13b&text_color=99a0af&icon_color=d7a13b">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxit&layout=compact&hide_border=true&langs_count=8&bg_color=f6f8fa&title_color=d7a13b&text_color=3a4150&icon_color=d7a13b" alt="rxit's most-used languages" width="100%">
+</picture>
+</td>
+</tr>
+</table>
+
+<img src="https://ghchart.rshah.org/d7a13b/rxit" width="100%" alt="rxit's GitHub contribution graph">
+
+---
+
+## 📮 Reach me
+
+**Open to work — remote, international.** Product-engineering roles where shipping is the job.
+
+| | |
+|---|---|
+| 🌐 **Live work** | [aumiqx.com](https://aumiqx.com) |
+| 📅 **Book a call** | [cal.com/rakshit-sharma-k1iaos](https://cal.com/rakshit-sharma-k1iaos) — 15 or 30 min |
+| ✉️ **Email** | [rxits@proton.me](mailto:rxits@proton.me) |
+| 📄 **CV** | [rxit-cv.pdf](./assets/rxit-cv.pdf) |
+| 🐙 **GitHub** | [@rxit](https://github.com/rxit) |
+
+<sub>Case file open. Happy to walk through any record above on a call.</sub>

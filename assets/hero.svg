@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 384" width="860" height="384" fill="none" role="img" aria-label="Case file — rxit, product builder at Aumiqx. Open to work, remote and international. 8 products shipped to production.">
+  <title>rxit — product builder @ Aumiqx · open to work</title>
+  <desc>Dossier-style spec card. Name rxit, role product builder at Aumiqx, status open to work remote/international, 8 products shipped to production.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1116"/>
+      <stop offset="0.6" stop-color="#11141b"/>
+      <stop offset="1" stop-color="#141821"/>
+    </linearGradient>
+    <linearGradient id="uline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d7a13b"/>
+      <stop offset="1" stop-color="#e6b451"/>
+    </linearGradient>
+    <radialGradient id="vign" cx="0.5" cy="0.32" r="0.95">
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.28"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#2a2f3a" stroke-opacity="0.14" stroke-width="1"/>
+    </pattern>
+    <clipPath id="win"><rect x="8" y="8" width="844" height="368" rx="18"/></clipPath>
+    <style>
+      text{ font-family:'JetBrains Mono',ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',monospace; }
+      .s{ font-family:'Inter','SF Pro Display',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif; }
+      .pulse{ animation:pulse 1.9s ease-in-out infinite; }
+      @keyframes pulse{ 0%,100%{opacity:1} 50%{opacity:.3} }
+      .uline{ transform-box:fill-box; transform-origin:left center; animation:uline .7s cubic-bezier(.2,.7,.3,1) .5s both; }
+      @keyframes uline{ from{transform:scaleX(0)} to{transform:scaleX(1)} }
+      .stamp{ transform-box:fill-box; transform-origin:center; animation:stamp .5s cubic-bezier(.2,.9,.3,1) .75s both; }
+      @keyframes stamp{ from{opacity:0;transform:scale(1.32)} to{opacity:.92;transform:scale(1)} }
+      @media (prefers-reduced-motion:reduce){
+        .pulse{ animation:none; opacity:1 }
+        .uline{ animation:none; transform:none }
+        .stamp{ animation:none; opacity:.92; transform:none }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect x="8" y="8" width="844" height="368" rx="18" fill="url(#bg)"/>
+    <rect x="8" y="8" width="844" height="368" fill="url(#grid)"/>
+    <rect x="8" y="8" width="844" height="368" fill="url(#vign)"/>
+
+    <!-- header strip -->
+    <circle cx="34" cy="40" r="5" fill="#d7a13b" class="pulse"/>
+    <text x="48" y="44.5" font-size="12" letter-spacing="2.5">
+      <tspan fill="#99a0af">CASE FILE</tspan><tspan fill="#99a0af"> · SUBJECT / </tspan><tspan fill="#e9ebf0">rxit</tspan>
+    </text>
+    <text x="826" y="44.5" text-anchor="end" font-size="11" letter-spacing="1.5">
+      <tspan fill="#5fae7f">● OPEN</tspan><tspan fill="#99a0af"> · REMOTE · INTERNATIONAL</tspan>
+    </text>
+    <line x1="24" y1="60" x2="836" y2="60" stroke="#2a2f3a" stroke-opacity="0.9"/>
+
+    <!-- monogram (headshot placeholder — swap for ./assets/rxit.jpg) -->
+    <rect x="34" y="86" width="66" height="66" rx="16" fill="#171a21" stroke="#d7a13b" stroke-width="1.4"/>
+    <text x="67" y="130" text-anchor="middle" class="s" font-size="30" font-weight="700" fill="#d7a13b">rx</text>
+
+    <!-- wordmark -->
+    <text x="120" y="138" class="s" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#e9ebf0">rxit<tspan fill="#d7a13b">.</tspan></text>
+    <rect x="120" y="150" width="150" height="3" rx="1.5" fill="url(#uline)" class="uline"/>
+    <text x="122" y="177" class="s" font-size="17" fill="#99a0af">product builder @ <tspan fill="#d7a13b">Aumiqx</tspan></text>
+
+    <!-- one-liner -->
+    <text x="34" y="216" class="s" font-size="14" fill="#99a0af">I build and run the products at Aumiqx —</text>
+    <text x="34" y="238" class="s" font-size="14" fill="#99a0af">real-time auctions, autonomous agents, marketplaces.</text>
+
+    <!-- headline stat -->
+    <text x="34" y="284" class="s" font-size="15">
+      <tspan fill="#d7a13b">▸ </tspan><tspan fill="#e9ebf0" font-weight="600">8 products</tspan><tspan fill="#99a0af"> shipped &amp; running in production</tspan>
+    </text>
+    <text x="34" y="308" font-size="13" fill="#99a0af">4 at Aumiqx · 4 for client brands · TypeScript · Python</text>
+
+    <!-- column divider -->
+    <line x1="540" y1="86" x2="540" y2="344" stroke="#2a2f3a" stroke-opacity="0.9"/>
+
+    <!-- spec sheet -->
+    <text x="566" y="104" font-size="11" letter-spacing="3" fill="#99a0af">SPEC SHEET</text>
+    <g font-size="12.5">
+      <text x="566" y="136" letter-spacing="1.5" fill="#99a0af">STATUS</text>
+      <text x="826" y="136" text-anchor="end" fill="#5fae7f">open to work</text>
+      <text x="566" y="166" letter-spacing="1.5" fill="#99a0af">BASED</text>
+      <text x="826" y="166" text-anchor="end" fill="#e9ebf0">remote / intl</text>
+      <text x="566" y="196" letter-spacing="1.5" fill="#99a0af">STACK</text>
+      <text x="826" y="196" text-anchor="end" fill="#e9ebf0">TS · Next · Flutter</text>
+      <text x="566" y="226" letter-spacing="1.5" fill="#99a0af">SHIPS</text>
+      <text x="826" y="226" text-anchor="end" fill="#e9ebf0">prod, end-to-end</text>
+    </g>
+
+    <!-- open-to-work stamp -->
+    <g transform="rotate(-7 700 300)">
+      <g class="stamp">
+        <rect x="604" y="274" width="192" height="52" rx="8" fill="none" stroke="#d7a13b" stroke-width="2"/>
+        <rect x="610" y="280" width="180" height="40" rx="5" fill="none" stroke="#d7a13b" stroke-width="1" opacity="0.55"/>
+        <text x="700" y="300" text-anchor="middle" font-size="19" font-weight="700" letter-spacing="2" fill="#d7a13b">OPEN TO WORK</text>
+        <text x="700" y="314" text-anchor="middle" font-size="8.5" letter-spacing="3" fill="#d7a13b" opacity="0.85">REMOTE · INTERNATIONAL</text>
+      </g>
+    </g>
+
+    <!-- border -->
+    <rect x="9" y="9" width="842" height="366" rx="17" fill="none" stroke="#2a2f3a" stroke-width="1.2"/>
+  </g>
+</svg>

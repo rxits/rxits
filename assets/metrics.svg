@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" fill="none" role="img" aria-label="By the numbers: 8 live products, 4 client brands, 18 platforms automated, 342 programmatic SEO pages, one €200M-plus DTC brand, and 3 AI agents.">
+  <title>rxit — by the numbers</title>
+  <defs>
+    <linearGradient id="mbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1116"/><stop offset="1" stop-color="#141821"/></linearGradient>
+    <clipPath id="mw"><rect x="8" y="8" width="1184" height="134" rx="16"/></clipPath>
+    <style>
+      text{ font-family:'JetBrains Mono',ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',monospace; }
+      .n{ font-family:'Inter','SF Pro Display',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif; font-weight:700; }
+      .cell{ opacity:0; animation:rise .55s ease forwards; }
+      .c0{ animation-delay:.10s } .c1{ animation-delay:.20s } .c2{ animation-delay:.30s } .c3{ animation-delay:.40s } .c4{ animation-delay:.50s } .c5{ animation-delay:.60s }
+      @keyframes rise{ from{opacity:0;transform:translateY(9px)} to{opacity:1;transform:translateY(0)} }
+      @media (prefers-reduced-motion:reduce){ .cell{ animation:none; opacity:1; transform:none } }
+    </style>
+  </defs>
+  <g clip-path="url(#mw)">
+    <rect x="8" y="8" width="1184" height="134" rx="16" fill="url(#mbg)"/>
+
+    <text x="24" y="30" font-size="11" letter-spacing="3" fill="#99a0af">◆ BY THE NUMBERS</text>
+    <text x="1176" y="30" text-anchor="end" font-size="10" letter-spacing="1" fill="#99a0af">every figure ties to a live link ↑</text>
+    <line x1="20" y1="42" x2="1180" y2="42" stroke="#2a2f3a" stroke-opacity="0.9"/>
+
+    <!-- dividers -->
+    <line x1="216" y1="58" x2="216" y2="120" stroke="#2a2f3a" stroke-opacity="0.7"/>
+    <line x1="408" y1="58" x2="408" y2="120" stroke="#2a2f3a" stroke-opacity="0.7"/>
+    <line x1="600" y1="58" x2="600" y2="120" stroke="#2a2f3a" stroke-opacity="0.7"/>
+    <line x1="792" y1="58" x2="792" y2="120" stroke="#2a2f3a" stroke-opacity="0.7"/>
+    <line x1="984" y1="58" x2="984" y2="120" stroke="#2a2f3a" stroke-opacity="0.7"/>
+
+    <g class="cell c0" style="transform-box:fill-box;transform-origin:center">
+      <text x="120" y="98" text-anchor="middle" class="n" font-size="40" fill="#d7a13b">8</text>
+      <text x="120" y="118" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#99a0af">LIVE PRODUCTS</text>
+    </g>
+    <g class="cell c1" style="transform-box:fill-box;transform-origin:center">
+      <text x="312" y="98" text-anchor="middle" class="n" font-size="40" fill="#e9ebf0">4</text>
+      <text x="312" y="118" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#99a0af">CLIENT BRANDS</text>
+    </g>
+    <g class="cell c2" style="transform-box:fill-box;transform-origin:center">
+      <text x="504" y="98" text-anchor="middle" class="n" font-size="40" fill="#e9ebf0">18</text>
+      <text x="504" y="118" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#99a0af">PLATFORMS AUTOMATED</text>
+    </g>
+    <g class="cell c3" style="transform-box:fill-box;transform-origin:center">
+      <text x="696" y="98" text-anchor="middle" class="n" font-size="40" fill="#e9ebf0">342</text>
+      <text x="696" y="118" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#99a0af">PROGRAMMATIC SEO PAGES</text>
+    </g>
+    <g class="cell c4" style="transform-box:fill-box;transform-origin:center">
+      <text x="888" y="96" text-anchor="middle" class="n" font-size="27" fill="#d7a13b">€200M+</text>
+      <text x="888" y="118" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#99a0af">DTC BRAND</text>
+    </g>
+    <g class="cell c5" style="transform-box:fill-box;transform-origin:center">
+      <text x="1080" y="98" text-anchor="middle" class="n" font-size="40" fill="#e9ebf0">3</text>
+      <text x="1080" y="118" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#99a0af">AI AGENTS</text>
+    </g>
+
+    <rect x="9" y="9" width="1182" height="132" rx="15" fill="none" stroke="#2a2f3a" stroke-width="1.2"/>
+  </g>
+</svg>
