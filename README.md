@@ -35,7 +35,7 @@ Below are the products I've built and still run in production — the problem ea
 <b>CASE FILE 01 · NY Elizabeth</b> — real-time auctions<br><br>
 <b>Problem</b> — an international luxury auction house needed to run live, clerk-driven auctions online: every bid reflected in real time, money moving safely.<br><br>
 <b>Built</b> — a real-time bidding engine on <code>Socket.IO</code> + <code>Redis</code>, a clerk console for live lots, <code>Stripe&nbsp;Connect</code> payouts, and a <code>Flutter</code> app for bidders.<br><br>
-▸ <b>Result — live, real-money clerk-driven auctions running in production for an international house.</b> &nbsp;<sub><a href="https://bid.nyelizabeth.com">bid.nyelizabeth.com ↗</a> · [GMV / bid-volume TK]</sub>
+▸ <b>Result — live, real-money clerk-driven auctions running in production for an international house.</b> &nbsp;<sub><a href="https://bid.nyelizabeth.com">bid.nyelizabeth.com ↗</a></sub>
 </td>
 </tr>
 </table>
@@ -50,7 +50,7 @@ Below are the products I've built and still run in production — the problem ea
 <b>CASE FILE 02 · SalesClawd</b> — autonomous marketing "employee"<br><br>
 <b>Problem</b> — small businesses can't staff a full marketing team, but still need the output a team produces.<br><br>
 <b>Built</b> — an autonomous marketing hire: <code>3 AI agents</code> working across <code>18 platforms</code> with trust-gated autonomy — the owner approves what matters, the rest runs on its own. Built on <code>Claude</code> + <code>Gemini</code> with custom orchestration.<br><br>
-▸ <b>Result — a working autonomous marketing employee in production: 3 agents, 18 platforms, trust-gated.</b> &nbsp;<sub><a href="https://salesclawd.aumiqx.com">salesclawd.aumiqx.com ↗</a> · [active accounts TK]</sub>
+▸ <b>Result — a working autonomous marketing employee in production: 3 agents, 18 platforms, trust-gated.</b> &nbsp;<sub><a href="https://salesclawd.aumiqx.com">salesclawd.aumiqx.com ↗</a></sub>
 </td>
 </tr>
 </table>
@@ -65,7 +65,7 @@ Below are the products I've built and still run in production — the problem ea
 <b>CASE FILE 03 · Art Index</b> — marketplace + price database<br><br>
 <b>Problem</b> — art buyers had nowhere to search a market's price history and bid on live lots against reliable data.<br><br>
 <b>Built</b> — an art marketplace and price database with live auctions, on an Artsy / <code>Algolia</code> data layer with fast search and daily data pipelines.<br><br>
-▸ <b>Result — a live marketplace and searchable price database, in production.</b> &nbsp;<sub><a href="https://artindex.ai">artindex.ai ↗</a> · [catalog size TK]</sub>
+▸ <b>Result — a live marketplace and searchable price database, in production.</b> &nbsp;<sub><a href="https://artindex.ai">artindex.ai ↗</a></sub>
 </td>
 </tr>
 </table>
@@ -112,15 +112,9 @@ Below are the products I've built and still run in production — the problem ea
 
 ---
 
-## 🗣️ Field reports
+## 🗣️ References
 
-<img src="./assets/field-reports.svg" width="100%" alt="Field reports — client testimonials in collection. Quotes from air-up, Beast and NY Elizabeth are pending sign-off. Placeholder cards.">
-
-<sub>Real quotes from these teams are being collected — the cards above are placeholders until each is signed off. No invented praise here; when a quote lands, it goes in verbatim with attribution.</sub>
-
-<!-- TESTIMONIAL PLACEHOLDER: real quote from air-up (Germany) — TBD, awaiting sign-off -->
-<!-- TESTIMONIAL PLACEHOLDER: real quote from Beast (London) — TBD, awaiting sign-off -->
-<!-- TESTIMONIAL PLACEHOLDER: real quote from NY Elizabeth — TBD, awaiting sign-off -->
+References from the teams behind the work above — **air-up**, **Beast**, and **NY&nbsp;Elizabeth** — available on request.
 
 ---
 
